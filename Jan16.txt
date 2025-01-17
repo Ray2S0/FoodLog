@@ -20,5 +20,6 @@ Fri Jan 17
 
 | Time | Food | kCal | Prot | Fat|
 |------|
-| 5h20  | 50g yogurt 30g berry smoothie   |   |   |   |
-| 5h20   | 150g air fried tofu            |   |   |   |
+| 5h20  | 50g yogurt 30g berry smoothie  |   |   |   |
+| 5h20  | 150g air fried tofu            |   |   |   |
+| 7h    | gatorade                       |   |   |   |
