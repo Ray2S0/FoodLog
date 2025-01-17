@@ -2,12 +2,12 @@ Thurs Jan 16
 
 | Time | Food | kCal | Prot | Fat|
 |------|
-| 5h20  | 100g yogurt 30g berry smoothie |   |   |   |
-| 9h20  | 100g yogurt 30g berry smoothie |   |   |   |
+| 5h20  | 100g yogurt 30g berry smoothie |  72 |  10 | 0  | yogurt: 57 kCal 10g prot 0g fat smooothie: 15 kcal 
+| 9h20  | 100g yogurt 30g berry smoothie |  72 |  10 | 0  |
 | 9h50  | 150g red pepper soup 30g lentils |  |  |   |
 | 10h15 | 50g oatmeal                    |   |   |   |
 | 11h40 | apple                          |   |   |   |
-| 13h   | 100g yogurt 30g berry smoothie |   |   |   |
+| 13h   | 100g yogurt 30g berry smoothie |  72 | 10  | 0  |
 | 13h50 | mr noodles (drained)           |   |   |   |
 | 15h   | 100g air fried tofu            |   |   |   |
 | 17h   | 50g oatmeal with canned peach  |   |   |   |
@@ -20,6 +20,7 @@ Fri Jan 17
 
 | Time | Food | kCal | Prot | Fat|
 |------|
-| 5h20  | 50g yogurt 30g berry smoothie  |   |   |   |
+| 5h20  | 50g yogurt 30g berry smoothie  | 41  | 5  | 0  |
 | 5h20  | 150g air fried tofu            |   |   |   |
-| 7h    | gatorade                       |   |   |   |
+| 7h    | gatorade                       | 140  |  0 |  0 |
+|  8h20 | berry smoothie drink 150g      |  75 | 0  | 0  |
