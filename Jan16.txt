@@ -36,3 +36,4 @@ Sat Jan 18
 | 5h45  | costco instant pho             | 250 | 4 | 3 |
 | 10h   | gatorade                       | 140 | 0 | 0 |
 | 10h30 | glico curry                    |     |   |   |
+| 14h   | avocado & fruit smoothie       |     |   |   |
