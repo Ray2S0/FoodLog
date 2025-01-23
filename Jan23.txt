@@ -11,3 +11,4 @@ Jan 23
 | 11h30 | cranberry juice          |   |   |   |
 | 13h   | costco instant pho       | 240 | 4 | 3 |
 | 15h   | 100g shrimp              |   |   |   |
+| 15h   | cranberry juice          |   |   |   |
