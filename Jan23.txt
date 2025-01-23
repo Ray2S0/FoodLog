@@ -6,4 +6,5 @@ Jan 23
 | 5h30  | grapes                   |   |   |   |
 | 7h    | cranberry juice          |   |   |   |
 | 10h   | shrimp                   |   |   |   |
-| 10h   | banana                   |   |   |   |
+| 10h15 | banana                   |   |   |   |
+| 10h30 | cranberry juice          |   |   |   |
