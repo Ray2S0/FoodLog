@@ -9,3 +9,4 @@ Jan 23
 | 10h15 | banana                   |   |   |   |
 | 10h30 | cranberry juice          |   |   |   |
 | 11h30 | cranberry juice          |   |   |   |
+| 13h   | costco instant pho       | 240 | 4 | 3 |
