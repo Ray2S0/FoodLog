@@ -1,0 +1,7 @@
+Jan 23
+
+| Time | Food | kCal | Prot | Fat|
+|------|
+| 5h20  | 1 sleeve salted crackers |   |   |   |
+| 5h30  | grapes                   |   |   |   |
+| 7h    | cranberry juice          |   |   |   |
