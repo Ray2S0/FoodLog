@@ -14,3 +14,15 @@ Jan 23
 | 15h   | cranberry juice          |   |   |   |
 | 17h   | 45g turkey breast        |   |   |   |
 | 17h20 | 1 sleeve salted crackers |   |   |   |
+| 23h   | banana                   |   |   |   |
+| 23h   | blueberry smoothie 150g  |   |   |   |
+
+
+
+Jan 24
+
+| Time | Food | kCal | Prot | Fat|
+|------|
+| 6h30  | 100g shrimp              |   |   |   |
+| 6h30  | 50g oatmeal              |   |   |   |
+| 6h30  | 1 Tbsp chia pudding      |   |   |   |
