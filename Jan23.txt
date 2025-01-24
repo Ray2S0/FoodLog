@@ -30,3 +30,5 @@ Jan 24
 | 9h30  | costco instant pho       | 240 | 4 | 3 |
 | 11h   | 1 sleeve salted crackers |     |   |   |
 | 14h30 | 90g turkey breast        |     |   |   |
+| 15h   | 50g oatmeal              |   |   |   |
+| 15h   | 1 Tbsp chia pudding      |   |   |   |
