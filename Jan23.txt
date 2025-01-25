@@ -5,32 +5,42 @@ Jan 23
 | 5h20  | 1 sleeve salted crackers |   |   |   |
 | 5h30  | grapes                   |   |   |   |
 | 7h    | cranberry juice          |   |   |   |
-| 10h   | shrimp                   |   |   |   |
+| 10h   | shrimp                   | 106 | 20 | 2 |
 | 10h15 | banana                   |   |   |   |
 | 10h30 | cranberry juice          |   |   |   |
 | 11h30 | cranberry juice          |   |   |   |
 | 13h   | costco instant pho       | 240 | 4 | 3 |
-| 15h   | 100g shrimp              |   |   |   |
+| 15h   | 100g shrimp              | 106 | 20 | 2 |
 | 15h   | cranberry juice          |   |   |   |
 | 17h   | 45g turkey breast        |   |   |   |
 | 17h20 | 1 sleeve salted crackers |   |   |   |
 | 23h   | banana                   |   |   |   |
 | 23h   | blueberry smoothie 150g  |   |   |   |
 
-
+Crackers - 19g of crackers, 6 crackers
+Calories80 cal
+Fat1.5 g2 %
+Saturates0.5 g
++ Trans0.0 g2 %
+Carbohydrate15 g0 %
+Sugars0 g0 %
+Fiber0 g0 %
+Protein2 g
+Potassium20 mg1 %
+Cholesterol0 mg0 %
 
 Jan 24
 
 | Time | Food | kCal | Prot | Fat|
 |------|
-| 6h30  | 100g shrimp              |   |   |   |
+| 6h30  | 100g shrimp              | 106 | 20 | 2 |
 | 6h30  | 50g oatmeal              | 191 | 7 | 3 |
-| 6h30  | 1 Tbsp chia pudding      |   |   |   |
+| 6h30  | 1 Tbsp chia pudding      |  58 | 2 | 4 |
 | 8h15  | protein bar              | 180 | 21 | 4 |
 | 9h30  | costco instant pho       | 240 | 4 | 3 |
 | 11h   | 1 sleeve salted crackers |     |   |   |
 | 14h30 | 90g turkey breast        |     |   |   |
 | 15h   | 50g oatmeal              | 191 | 7 | 3 |
-| 15h   | 1 Tbsp chia pudding      |   |   |   |
+| 15h   | 1 Tbsp chia pudding      |  58 | 2 | 4 |
 | 16h   | 100g marinated tofu      |   |   |   |
-| 18h   | 100g shrimp              |   |   |   |
+| 18h   | 100g shrimp              | 106 | 20 | 2 |
