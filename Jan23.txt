@@ -45,3 +45,12 @@ Jan 24
 | 16h   | 100g marinated tofu      |   |   |   |
 | 18h   | 100g shrimp              | 106 | 20 | 2 |
 | 21h   | 100g marinated tofu      |   |   |   |
+
+
+Jan 25
+| Time | Food | kCal | Prot | Fat|
+|------|
+| 5h30  | 50g oatmeal              | 191 | 7 | 3 |
+| 55h   | 1 Tbsp chia pudding      |  58 | 2 | 4 |
+| 7h30  | 1 sleeve salted crackers |     |   |   |
+| 7h30  | blueberry smoothie 150g  |   |   |   |
