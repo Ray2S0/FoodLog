@@ -54,3 +54,6 @@ Jan 25
 | 55h   | 1 Tbsp chia pudding      |  58 | 2 | 4 |
 | 7h30  | 1 sleeve salted crackers |     |   |   |
 | 7h30  | blueberry smoothie 150g  |   |   |   |
+| 7h30  | banana                   |   |   |   |
+| 10h   | blueberry smoothie 150g  |   |   |   |
+| 10h   | half a cliff bar         |   |   |   |
