@@ -57,3 +57,5 @@ Jan 25
 | 7h30  | banana                   |   |   |   |
 | 10h   | blueberry smoothie 150g  |   |   |   |
 | 10h   | half a cliff bar         |   |   |   |
+| 14h30 | half a cliff bar         |   |   |   |
+| 9h30  | costco instant pho       | 240 | 4 | 3 |
