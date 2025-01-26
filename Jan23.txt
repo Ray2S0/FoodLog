@@ -76,3 +76,4 @@ Jan 26
 | 9h    | 100g shrimp              | 106 | 20 | 2 |
 | 11h   | costco instant pho       | 240 | 4 | 3 |
 | 13h   | egg white omlette        | 400 | 9 | 5 |
+| 15h   | 100g shrimp              | 106 | 20 | 2 |
