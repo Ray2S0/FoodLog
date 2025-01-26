@@ -73,3 +73,4 @@ Jan 26
 | 5h30  | half a cliff bar         | 140 | 10 | 4 |
 | 7h    | half a cliff bar         | 140 | 10 | 4 |
 | 9h    | banana                   | 121 | 1 | 0 |
+| 9h    | 100g shrimp              | 106 | 20 | 2 |
