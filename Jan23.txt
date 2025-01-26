@@ -2,7 +2,7 @@ Jan 23
 
 | Time | Food | kCal | Prot | Fat|
 |------|
-| 5h20  | 1 sleeve salted crackers |   |   |   |
+| 5h20  | 1 sleeve salted crackers | 533 | 13 | 10 |
 | 5h30  | grapes                   |   |   |   |
 | 7h    | cranberry juice          |   |   |   |
 | 10h   | shrimp                   | 106 | 20 | 2 |
@@ -13,23 +13,9 @@ Jan 23
 | 15h   | 100g shrimp              | 106 | 20 | 2 |
 | 15h   | cranberry juice          |   |   |   |
 | 17h   | 45g turkey breast        |   |   |   |
-| 17h20 | 1 sleeve salted crackers |   |   |   |
+| 17h20 | 1 sleeve salted crackers | 533 | 13 | 10 |
 | 23h   | banana                   |   |   |   |
 | 23h   | blueberry smoothie 150g  |   |   |   |
-
-Crackers - 19g of crackers, 6 crackers
-Calories80 cal
-Fat1.5 g2 %
-Saturates0.5 g
-+ Trans0.0 g2 %
-Carbohydrate15 g0 %
-Sugars0 g0 %
-Fiber0 g0 %
-Protein2 g
-Potassium20 mg1 %
-Cholesterol0 mg0 %
-
-internet says 40 crackers per sleeve
 
 Jan 24
 
@@ -40,7 +26,7 @@ Jan 24
 | 6h30  | 1 Tbsp chia pudding      |  58 | 2 | 4 |
 | 8h15  | protein bar              | 180 | 21 | 4 |
 | 9h30  | costco instant pho       | 240 | 4 | 3 |
-| 11h   | 1 sleeve salted crackers |     |   |   |
+| 11h   | 1 sleeve salted crackers | 533 | 13 | 10 |
 | 14h30 | 90g turkey breast        |     |   |   |
 | 15h   | 50g oatmeal              | 191 | 7 | 3 |
 | 15h   | 1 Tbsp chia pudding      |  58 | 2 | 4 |
@@ -54,7 +40,7 @@ Jan 25
 |------|
 | 5h30  | 50g oatmeal              | 191 | 7 | 3 |
 | 55h   | 1 Tbsp chia pudding      |  58 | 2 | 4 |
-| 7h30  | 1 sleeve salted crackers |     |   |   |
+| 7h30  | 1 sleeve salted crackers | 533 | 13 | 10 |
 | 7h30  | blueberry smoothie 150g  |   |   |   |
 | 7h30  | banana                   | 121 | 1 | 0 |
 | 10h   | blueberry smoothie 150g  |   |   |   |
