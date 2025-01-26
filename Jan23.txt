@@ -64,3 +64,4 @@ Jan 26
 | 13h   | egg white omlette        | 400 | 9 | 5 |
 | 15h   | 100g shrimp              | 106 | 20 | 2 |
 | 16h30 | banana                   | 121 | 1 | 0 |
+| 18h   | package noodles          |     |   |   |
