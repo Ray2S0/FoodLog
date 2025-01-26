@@ -56,10 +56,20 @@ Jan 25
 | 55h   | 1 Tbsp chia pudding      |  58 | 2 | 4 |
 | 7h30  | 1 sleeve salted crackers |     |   |   |
 | 7h30  | blueberry smoothie 150g  |   |   |   |
-| 7h30  | banana                   |   |   |   |
+| 7h30  | banana                   | 121 | 1 | 0 |
 | 10h   | blueberry smoothie 150g  |   |   |   |
-| 10h   | half a cliff bar         |   |   |   |
-| 14h30 | half a cliff bar         |   |   |   |
+| 10h   | half a cliff bar         | 140 | 10 | 4 |
+| 14h30 | half a cliff bar         | 140 | 10 | 4 |
 | 16h30 | costco instant pho       | 240 | 4 | 3 |
 | 19h   | 50g oatmeal              | 191 | 7 | 3 |
 | 19h   | 1 Tbsp chia pudding      |  58 | 2 | 4 |
+
+
+Jan 26
+| Time | Food | kCal | Prot | Fat|
+|------|
+| 5h30  | 50g oatmeal              | 191 | 7 | 3 |
+| 5h30  | 2 Tbsp maple syrup       | 104 | 0 | 0 |
+| 5h30  | half a cliff bar         | 140 | 10 | 4 |
+| 7h    | half a cliff bar         | 140 | 10 | 4 |
+| 9h    | banana                   | 121 | 1 | 0 |
