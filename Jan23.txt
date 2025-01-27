@@ -73,3 +73,5 @@ Jan 27
 | 6h15  | half a cliff bar         | 140 | 10 | 4 |
 | 7h20  | 50g oatmeal              | 191 | 7 | 3 |
 | 7h20  | 2 Tbsp maple syrup       | 104 | 0 | 0 |
+| 9h    | 100g shrimp              | 106 | 20 | 2 |
+| 10h   | 100g shrimp              | 106 | 20 | 2 |
