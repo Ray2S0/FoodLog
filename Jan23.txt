@@ -65,3 +65,8 @@ Jan 26
 | 15h   | 100g shrimp              | 106 | 20 | 2 |
 | 16h30 | banana                   | 121 | 1 | 0 |
 | 18h   | package noodles          |     |   |   |
+
+Jan 27
+| Time | Food | kCal | Prot | Fat|
+|------|
+| 5h   | half a cliff bar         | 140 | 10 | 4 |
