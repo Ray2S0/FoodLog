@@ -81,3 +81,4 @@ Jan 27
 | 14h   | 1 peach                  |     |   |   |
 | 16h   | 4 soup dumplings         | 155 | 9 | 5 |
 | 16h30 | 2 peaches                |     |   |   |
+| 17h30 | half a cliff bar         | 140 | 10 | 4 |
