@@ -79,3 +79,4 @@ Jan 27
 | 14h   | 100g shrimp              | 106 | 20 | 2 |
 | 14h   | 50g oatmeal              | 191 | 7 | 3 |
 | 14h   | 1 peach                  |     |   |   |
+| 16h   | 4 soup dumplings         | 155 | 9 | 5 |
