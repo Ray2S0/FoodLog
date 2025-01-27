@@ -64,7 +64,7 @@ Jan 26
 | 13h   | egg white omlette        | 400 | 9 | 5 |
 | 15h   | 100g shrimp              | 106 | 20 | 2 |
 | 16h30 | banana                   | 121 | 1 | 0 |
-| 18h   | package noodles          |     |   |   |
+| 18h   | package noodles          | 170 | 4 | 5 |
 
 Jan 27
 | Time | Food | kCal | Prot | Fat|
@@ -82,3 +82,4 @@ Jan 27
 | 16h   | 4 soup dumplings         | 155 | 9 | 5 |
 | 16h30 | 2 peaches                |     |   |   |
 | 17h30 | half a cliff bar         | 140 | 10 | 4 |
+| 18h   | package noodles          | 170 | 4 | 5 |
