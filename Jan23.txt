@@ -70,3 +70,4 @@ Jan 27
 | Time | Food | kCal | Prot | Fat|
 |------|
 | 5h   | half a cliff bar         | 140 | 10 | 4 |
+| 6h15 | half a cliff bar         | 140 | 10 | 4 |
