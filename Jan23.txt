@@ -92,3 +92,5 @@ Jan 28
 | 6h30 | 50g oatmeal              | 191 | 7 | 3 |
 | 6h30 | 2 peaches                |     |   |   |
 | 9h   | 100g shrimp              | 106 | 20 | 2 |
+| 12h  | 100g turkey              |     |    |   |
+| 12h  | costco instant pho       | 240 | 4 | 3 |
