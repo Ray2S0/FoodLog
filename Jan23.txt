@@ -84,3 +84,11 @@ Jan 27
 | 17h30 | half a cliff bar         | 140 | 10 | 4 |
 | 18h   | package noodles          | 170 | 4 | 5 |
 | 19h   | half a cliff bar         | 140 | 10 | 4 |
+
+Jan 28
+| Time | Food | kCal | Prot | Fat|
+|------|
+| 6h30 | blueberry RX bar         |     |   |   |
+| 6h30 | 50g oatmeal              | 191 | 7 | 3 |
+| 6h30 | 2 peaches                |     |   |   |
+| 9h   | 100g shrimp              | 106 | 20 | 2 |
