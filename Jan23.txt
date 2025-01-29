@@ -110,7 +110,15 @@ Jan 29
 | 7h    | 200g blueberry smoothie  |     |   |   |
 | 7h    | 50g oatmeal              | 191 | 7 | 3 |
 | 7h    | 2 Tbsp maple syrup       | 104 | 0 | 0 |
-| 8h30  | apple                    | 75  |   |   |
+| 8h30  | apple                    | 75  | 0 | 0 |
 | 10h   | 100g turkey              | 147 | 30 | 3 |
 | 10h   | costco instant pho       | 240 | 4 | 3 |
 | 10h30 | D3 & liver tablets       |     |   |   |
+| 14h   | apple                    | 75  | 0 | 0 |
+| 15h   | 100g turkey              | 147 | 30 | 3 |
+| 15h   | package noodles          | 170 | 4 | 5 |
+
+
+
+
+
