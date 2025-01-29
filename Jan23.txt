@@ -92,10 +92,12 @@ Jan 28
 | 6h30  | 50g oatmeal              | 191 | 7 | 3 |
 | 6h30  | 2 peaches                |     |   |   |
 | 9h    | 100g shrimp              | 106 | 20 | 2 |
-| 12h   | 100g turkey              |     |    |   |
+| 12h   | 100g turkey              | 147 | 30 | 3 |
 | 12h   | costco instant pho       | 240 | 4 | 3 |
 | 14h   | package of grapes        |     |   |   |     munched on them all afternoon
 | 14h   | 200g blueberry smoothie  |     |   |   | 
-| 16h30 | 100g turkey              |     |    |   |
+| 16h30 | 100g turkey              | 147 | 30 | 3 |
 | 16h30 | 200g blueberry smoothie  |     |   |   |
 | 17h   | 1 sleeve salted crackers | 533 | 13 | 10 |
+| 19h   | 50g oatmeal              | 191 | 7 | 3 |
+| 19h   | 2 Tbsp maple syrup       | 104 | 0 | 0 |
