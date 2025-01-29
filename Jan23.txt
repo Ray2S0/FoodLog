@@ -117,7 +117,7 @@ Jan 29
 | 14h   | apple                    | 75  | 0 | 0 |
 | 15h   | 100g turkey              | 147 | 30 | 3 |
 | 15h   | package noodles          | 170 | 4 | 5 |
-
+| 15h30 | 1 sleeve salted crackers | 533 | 13 | 10 |
 
 
 
