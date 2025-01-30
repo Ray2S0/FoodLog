@@ -27,7 +27,7 @@ Jan 24
 | 8h15  | protein bar              | 180 | 21 | 4 |
 | 9h30  | costco instant pho       | 240 | 4 | 3 |
 | 11h   | 1 sleeve salted crackers | 533 | 13 | 10 |
-| 14h30 | 90g turkey breast        |     |   |   |
+| 14h30 | 100g turkey breast       | 147 | 30 | 3 |
 | 15h   | 50g oatmeal              | 191 | 7 | 3 |
 | 15h   | 1 tsp chia pudding       |  58 | 2 | 4 |
 | 16h   | 100g marinated tofu      |   |   |   |
