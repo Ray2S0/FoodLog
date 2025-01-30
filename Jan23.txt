@@ -41,9 +41,9 @@ Jan 25
 | 5h30  | 50g oatmeal              | 191 | 7 | 3 |
 | 55h   | 1 tsp chia pudding       |  58 | 2 | 4 |
 | 7h30  | 1 sleeve salted crackers | 533 | 13 | 10 |
-| 7h30  | blueberry smoothie 150g  |   |   |   |
+| 7h30  | blueberry smoothie 150g  | 78  | 0 | 0 |
 | 7h30  | banana                   | 121 | 1 | 0 |
-| 10h   | blueberry smoothie 150g  |   |   |   |
+| 10h   | blueberry smoothie 150g  | 78  | 0 | 0 |
 | 10h   | half a cliff bar         | 140 | 10 | 4 |
 | 14h30 | half a cliff bar         | 140 | 10 | 4 |
 | 16h30 | costco instant pho       | 240 | 4 | 3 |
@@ -95,9 +95,9 @@ Jan 28
 | 12h   | 100g turkey              | 147 | 30 | 3 |
 | 12h   | costco instant pho       | 240 | 4 | 3 |
 | 14h   | package of grapes        |     |   |   |     munched on them all afternoon
-| 14h   | 200g blueberry smoothie  |     |   |   | 
+| 14h   | 200g blueberry smoothie  | 104 | 0 | 0 | 
 | 16h30 | 100g turkey              | 147 | 30 | 3 |
-| 16h30 | 200g blueberry smoothie  |     |   |   |
+| 16h30 | 200g blueberry smoothie  | 104 | 0 | 0 |
 | 17h   | 1 sleeve salted crackers | 533 | 13 | 10 |
 | 19h   | 50g oatmeal              | 191 | 7 | 3 |
 | 19h   | 2 Tbsp maple syrup       | 104 | 0 | 0 |
@@ -107,7 +107,7 @@ Jan 29
 | Time | Food | kCal | Prot | Fat|
 |-------|
 | 7h    | 100g turkey              | 147 | 30 | 3 |
-| 7h    | 200g blueberry smoothie  |     |   |   |
+| 7h    | 200g blueberry smoothie  | 104 | 0 | 0 |
 | 7h    | 50g oatmeal              | 191 | 7 | 3 |
 | 7h    | 2 Tbsp maple syrup       | 104 | 0 | 0 |
 | 8h30  | apple                    | 75  | 0 | 0 |
@@ -125,7 +125,7 @@ Jan 29
 Jan 30
 | Time | Food | kCal | Prot | Fat|
 |-------|
-| 6h30  | 200g blueberry smoothie  |     |   |   |
+| 6h30  | 200g blueberry smoothie  | 104 | 0 | 0 |
 | 6h30  | blueberry rx bar         | 190 | 12 | 6 |
 | 6h30  | apple                    | 75  | 0 | 0 |
 | 8h    | sleeve salted crackers   | 533 | 13 | 10 |
