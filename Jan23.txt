@@ -88,7 +88,7 @@ Jan 27
 Jan 28
 | Time | Food | kCal | Prot | Fat|
 |------|
-| 6h30  | blueberry RX bar         |     |   |   |
+| 6h30  | blueberry RX bar         | 190 | 12 | 6 |
 | 6h30  | 50g oatmeal              | 191 | 7 | 3 |
 | 6h30  | 2 peaches                |     |   |   |
 | 9h    | 100g shrimp              | 106 | 20 | 2 |
@@ -126,6 +126,6 @@ Jan 30
 | Time | Food | kCal | Prot | Fat|
 |-------|
 | 6h30  | 200g blueberry smoothie  |     |   |   |
-| 6h30  | blueberry rx bar         |
-| 6h30  | apple                    |
-| 7h40  | sleeve salted crackers   |
+| 6h30  | blueberry rx bar         | 190 | 12 | 6 |
+| 6h30  | apple                    | 75  | 0 | 0 |
+| 8h    | sleeve salted crackers   | 533 | 13 | 10 |
