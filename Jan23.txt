@@ -12,7 +12,7 @@ Jan 23
 | 13h   | costco instant pho       | 240 | 4 | 3 |
 | 15h   | 100g shrimp              | 106 | 20 | 2 |
 | 15h   | cranberry juice          |   |   |   |
-| 17h   | 45g turkey breast        |   |   |   |
+| 17h   | 45g turkey breast        | 70 | 15 | 1 |
 | 17h20 | 1 sleeve salted crackers | 533 | 13 | 10 |
 | 23h   | banana                   |   |   |   |
 | 23h   | blueberry smoothie 150g  |   |   |   |
