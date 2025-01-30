@@ -130,3 +130,5 @@ Jan 30
 | 6h30  | apple                    | 75  | 0 | 0 |
 | 8h    | sleeve salted crackers   | 533 | 13 | 10 |
 | 12h30 | costco instant pho       | 240 | 4 | 3 |
+| 13h30 | apple                    | 75  | 0 | 0 |
+| 13h30 | 100g turkey              | 147 | 30 | 3 |
