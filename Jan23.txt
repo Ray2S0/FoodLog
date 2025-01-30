@@ -132,3 +132,5 @@ Jan 30
 | 12h30 | costco instant pho       | 240 | 4 | 3 |
 | 13h30 | apple                    | 75  | 0 | 0 |
 | 13h30 | 100g turkey              | 147 | 30 | 3 |
+| 14h   | 100g turkey              | 147 | 30 | 3 |
+| 14h30 | package noodles          | 170 | 4 | 5 |
