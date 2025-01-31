@@ -30,9 +30,9 @@ Jan 24
 | 14h30 | 100g turkey breast       | 147 | 30 | 3 |
 | 15h   | 50g oatmeal              | 191 | 7 | 3 |
 | 15h   | 1 tsp chia pudding       |  58 | 2 | 4 |
-| 16h   | 100g marinated tofu      |   |   |   |
+| 16h   | 100g marinated tofu      | 83  | 10 | 5 |
 | 18h   | 100g shrimp              | 106 | 20 | 2 |
-| 21h   | 100g marinated tofu      |   |   |   |
+| 21h   | 100g marinated tofu      | 83  | 10 | 5 |
 
 
 Jan 25
@@ -151,5 +151,6 @@ Jan 31
 | 12h   | 4 gyoza dumplings        | 170 | 7 | 7 |
 | 12h   | 1 sleeve salted crackers | 533 | 13 | 10 |
 | 15h   | d3 and liver tablets     |     |   |   |
-
+| 16h   | apple                    | 75  | 0 | 0 |
+| 16h   | 100g tofu                | 83  | 10 | 5 |
 
