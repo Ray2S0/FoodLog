@@ -134,3 +134,6 @@ Jan 30
 | 13h30 | 100g turkey              | 147 | 30 | 3 |
 | 14h   | 100g turkey              | 147 | 30 | 3 |
 | 14h30 | package noodles          | 170 | 4 | 5 |
+| 18h30 | 100g turkey              | 147 | 30 | 3 |
+| 18h30 | 50g oatmeal              | 191 | 7 | 3 |
+| 18h30 | 2 Tbsp maple syrup       | 104 | 0 | 0 |
