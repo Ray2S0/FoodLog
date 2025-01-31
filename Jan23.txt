@@ -147,6 +147,9 @@ Jan 31
 | 9h    | 4 soup dumplings         | 155 | 9 | 5 |
 | 1030  | apple                    | 75  | 0 | 0 |
 | 10h30 | package noodles          | 170 | 4 | 5 |
-
+| 12h   | apple                    | 75  | 0 | 0 |
+| 12h   | 4 gyoza dumplings        | 170 | 7 | 7 |
+| 12h   | 1 sleeve salted crackers | 533 | 13 | 10 |
+| 15h   | d3 and liver tablets     |     |   |   |
 
 
