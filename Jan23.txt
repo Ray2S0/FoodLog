@@ -153,4 +153,5 @@ Jan 31
 | 15h   | d3 and liver tablets     |     |   |   |
 | 16h   | apple                    | 75  | 0 | 0 |
 | 16h   | 100g tofu                | 83  | 10 | 5 |
-
+| 18h30 | 50g oatmeal              | 191 | 7 | 3 |
+| 18h30 | 1 TBSP white sugar       |
