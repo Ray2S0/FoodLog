@@ -155,3 +155,10 @@ Jan 31
 | 16h   | 100g tofu                | 83  | 10 | 5 |
 | 18h30 | 50g oatmeal              | 191 | 7 | 3 |
 | 18h30 | 1 TBSP white sugar       |
+
+
+| Time | Food | kCal | Prot | Fat|
+|-------|
+| 5h    | costco instant pho       | 240 | 4 | 3 |
+| 5h    | blueberry rx bar         | 190 | 12 | 6 |
+| 6h    | apple                    | 75  | 0 | 0 |
