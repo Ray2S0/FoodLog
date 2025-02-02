@@ -170,8 +170,9 @@ Feb 1
 | 14h   | 50g oatmeal              | 191 | 7 | 3 |
 | 14h   | 2 Tbsp jam               |
 | 15h   | 1 sleeve salted crackers | 533 | 13 | 10 |
+| 18h   | one package of grapes    | 
 
-Feb 1
+Feb 2
 | Time | Food | kCal | Prot | Fat|
 |-------|
 | 7h    | 50g oatmeal              | 191 | 7 | 3 |
