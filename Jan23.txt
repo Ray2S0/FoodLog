@@ -181,6 +181,10 @@ Feb 2
 | 8h30  | 175g yogurt              |
 | 8h30  | 40g blueberry smoothie   |
 | 8h30  | orange                   |
-
+| 11h   | 4 soup dumplings         | 155 | 9 | 5 |
+| 11h   | package noodles          | 170 | 4 | 5 |
+| 12h   | 100g blueberry smoothie  |
+| 12h   | orange 
+| 13h   | sea salt rx bar
 
 
