@@ -186,5 +186,15 @@ Feb 2
 | 12h   | 100g blueberry smoothie  |
 | 12h   | orange 
 | 13h   | sea salt rx bar
+| 19h   | 175g yogurt              |
+| 19h   | 40g blueberry smoothie   |
+| 19h   | 100g shrimp              |
 
+
+Feb 3
+| Time | Food | kCal | Prot | Fat|
+|-------|
+| 7h    | 175g yogurt              |
+| 7h    | 40g blueberry smoothie   |
+| 7h30  | 1 sleeve salted crackers | 533 | 13 | 10 |
 
