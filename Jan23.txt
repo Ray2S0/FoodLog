@@ -198,4 +198,6 @@ Feb 3
 | 7h    | 40g blueberry smoothie   |
 | 7h30  | 1 sleeve salted crackers | 533 | 13 | 10 |
 | 8h    | orange                   | 45 | 0 | 0 |
-
+| 10h   | 100g shrimp              | 106 | 20 | 2 |
+| 11h   | 50g oatmeal              | 191 | 7 | 3 |
+| 11h   | 40g blueberry smoothie   | 
