@@ -197,4 +197,5 @@ Feb 3
 | 7h    | 175g yogurt              |
 | 7h    | 40g blueberry smoothie   |
 | 7h30  | 1 sleeve salted crackers | 533 | 13 | 10 |
+| 8h    | 1 orange
 
