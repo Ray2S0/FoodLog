@@ -215,6 +215,8 @@ Feb 4
 |-------|
 | 5h    | 175g yogurt              | 100 | 19 | 0 |
 | 5h    | 40g blueberry smoothie   | 20  | 0 | 0 |
-
+| 7h    | mr noodles               | 200 | 4 | 5 |
+| 8h30  | 6 soup dumplings         | 232 | 14 | 8 |
+| 8h30  | peach                    | 51 | 1 | 0 |
 
 
