@@ -90,7 +90,7 @@ Jan 28
 |------|
 | 6h30  | blueberry RX bar         | 190 | 12 | 6 |
 | 6h30  | 50g oatmeal              | 191 | 7 | 3 |
-| 6h30  | 2 peaches                |     |   |   |
+| 6h30  | 2 peaches                | 102 | 2 | 0 |
 | 9h    | 100g shrimp              | 106 | 20 | 2 |
 | 12h   | 100g turkey              | 147 | 30 | 3 |
 | 12h   | costco instant pho       | 240 | 4 | 3 |
@@ -178,38 +178,43 @@ Feb 2
 | 7h    | 50g oatmeal              | 191 | 7 | 3 |
 | 7h    | 2 Tbsp jam               |
 | 7h    | 100g tofu                | 83  | 10 | 5 |
-| 8h30  | 175g yogurt              |
-| 8h30  | 40g blueberry smoothie   |
+| 8h30  | 175g yogurt              | 100 | 19 | 0 |
+| 8h30  | 40g blueberry smoothie   | 20  | 0 | 0 |
 | 8h30  | orange                   | 45 | 0 | 0 |
 | 11h   | 4 soup dumplings         | 155 | 9 | 5 |
 | 11h   | package noodles          | 170 | 4 | 5 |
-| 12h   | 100g blueberry smoothie  |
+| 12h   | 100g blueberry smoothie  | 50 | 0 | 0 |
 | 12h   | orange                   | 45 | 0 | 0 |
 | 13h   | sea salt rx bar
-| 19h   | 175g yogurt              |
-| 19h   | 40g blueberry smoothie   |
+| 19h   | 175g yogurt              | 100 | 19 | 0 |
+| 19h   | 40g blueberry smoothie   | 20  | 0 | 0 |
 | 19h   | 100g shrimp              | 106 | 20 | 2 |
 
 
 Feb 3
 | Time | Food | kCal | Prot | Fat|
 |-------|
-| 7h    | 175g yogurt              |
-| 7h    | 40g blueberry smoothie   |
+| 7h    | 175g yogurt              | 100 | 19 | 0 |
+| 7h    | 40g blueberry smoothie   | 20  | 0 | 0 |
 | 7h30  | 1 sleeve salted crackers | 533 | 13 | 10 |
 | 8h    | orange                   | 45 | 0 | 0 |
 | 10h   | 100g shrimp              | 106 | 20 | 2 |
 | 11h   | 50g oatmeal              | 191 | 7 | 3 |
-| 11h   | 40g blueberry smoothie   | 
+| 11h   | 40g blueberry smoothie   | 20  | 0 | 0 |
 | 13h   | d3, liver, st john's wort|
 | 14h   | 4 soup dumplings         | 155 | 9 | 5 |
 | 14h   | mr noodles               | 200 | 4 | 5 |
-| 15h   | peach
-| 15h   | orange
+| 15h   | peach                    | 51 | 1 | 0 |
+| 15h   | orange                   | 45 | 0 | 0 |
+| 18h   | 6 soup dumplings         | 232 | 14 | 8 |
+| 18h   | mr noodles               | 200 | 4 | 5 |
 
 
-
-
+Feb 4
+| Time | Food | kCal | Prot | Fat|
+|-------|
+| 5h    | 175g yogurt              | 100 | 19 | 0 |
+| 5h    | 40g blueberry smoothie   | 20  | 0 | 0 |
 
 
 
