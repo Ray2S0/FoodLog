@@ -235,3 +235,8 @@ Feb 5
 | 7h    | sea salt rx bar          | 200 | 12 | 8 |
 | 9h    | 6 soup dumplings         | 232 | 14 | 8 |
 | 9h    | orange                   | 45 | 0 | 0 |
+| 10h30 | mr noodles               | 200 | 4 | 5 |
+
+
+
+
