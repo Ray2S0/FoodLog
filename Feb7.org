@@ -1,0 +1,9 @@
+* Feb 7
+
+| Time | Food (mkdwn)      | Food (org) | kCal | Prot | Fat |
+|------+-------------------+------------+------+------+-----|
+| 6h30 | Coffee            |            |      |      |     |
+| 6h30 | 50g oatmeal       |            |      |      |     |
+| 6h30 | 2Tbsp maple syrup |            |      |      |     |
+| 7h30 | sea salt rx bar   |            |  200 |   12 |   8 |
+|      |                   |            |      |      |     |
