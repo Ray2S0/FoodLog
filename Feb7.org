@@ -1,9 +1,16 @@
 * Feb 7
 
-| Time | Food (mkdwn)      | Food (org) | kCal | Prot | Fat |
-|------+-------------------+------------+------+------+-----|
-| 6h30 | Coffee            |            |      |      |     |
-| 6h30 | 50g oatmeal       |            |      |      |     |
-| 6h30 | 2Tbsp maple syrup |            |      |      |     |
-| 7h30 | sea salt rx bar   |            |  200 |   12 |   8 |
-|      |                   |            |      |      |     |
+| Time  | Food (mkdwn)      | Food (org) | kCal | Prot | Fat |
+|-------+-------------------+------------+------+------+-----|
+| 6h30  | Coffee            |            |      |      |     |
+| 6h30  | 50g oatmeal       |            |      |      |     |
+| 6h30  | 2Tbsp maple syrup |            |      |      |     |
+| 7h30  | sea salt rx bar   |            |  200 |   12 |   8 |
+| 10h   | peach             |            |      |      |     |
+| 10h30 | 6  potstickers    |            |      |      |     |
+| 12h   | mr noodles        |            |      |      |     |
+| 13h   | gainz smoothie    |            |      |      |     |
+| 13h30 | green smoothie    |            |      |      |     |
+| 15h   | 2 peaches         |            |      |      |     |
+| 17h   | 50g oatmeal       |            |      |      |     |
+| 17h   | 2 peaches         |            |      |      |     |
