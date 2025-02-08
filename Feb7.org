@@ -20,8 +20,11 @@
 * Feb 8
 
 
-| Time | Food (mkdwn) | Food (org) | kCal | Prot | Fat |
-|------+--------------+------------+------+------+-----|
-| 8h   | Coffee       |            |      |      |     |
-| 8h   | 50g oatmeal  |            |      |      |     |
-| 8h   | 2 peaches    |            |      |      |     |
+| Time  | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
+|-------+--------------------+------------+------+------+-----|
+| 8h    | Coffee             |            |      |      |     |
+| 8h    | 50g oatmeal        |            |      |      |     |
+| 8h    | 2 peaches          |            |      |      |     |
+| 10h30 | 500g grapes        |            |      |      |     |
+| 11h30 | whey hot chocolate |            |  316 |   45 |   2 |
+|       |                    |            |      |      |     |

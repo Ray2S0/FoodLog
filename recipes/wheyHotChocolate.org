@@ -1,0 +1,38 @@
+* Whey Hot Chocolate
+
+** Links
+
+| Time | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
+|------+--------------------+------------+------+------+-----|
+| h    | whey hot chocolate |            |  316 |   45 | 2   |
+
+
+markdown:
+org: 
+
+** Individual Recipe
+
+|     g | Ingredient      | kCal | Prot | Fat |
+|-------+-----------------+------+------+-----|
+|    40 | whey protein    |  152 |   32 |   1 |
+|    25 | soy milk powder |   85 |   12 |   0 |
+|     4 | cocoa           |    8 |    1 |   1 |
+|    19 | white sugar     |   71 |    0 |   0 |
+|     1 | vanilla extract |    0 |    0 |   0 |
+|   250 | water           |    0 |    0 |   0 |
+|-------+-----------------+------+------+-----|
+| TOTAL |                 |  316 |   45 |  2  |
+
+
+
+** Picture
+
+
+** Bulk Dry Mix Recipe
+
+|   g | Ingredient      |
+|-----+-----------------|
+| 350 | whey protein    |
+| 200 | soy milk powder |
+| 170 | white sugar     |
+|  35 | cocoa           |
