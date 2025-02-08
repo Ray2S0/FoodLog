@@ -14,3 +14,14 @@
 | 15h   | 2 peaches         |            |      |      |     |
 | 17h   | 50g oatmeal       |            |      |      |     |
 | 17h   | 2 peaches         |            |      |      |     |
+
+
+
+* Feb 8
+
+
+| Time | Food (mkdwn) | Food (org) | kCal | Prot | Fat |
+|------+--------------+------------+------+------+-----|
+| 8h   | Coffee       |            |      |      |     |
+| 8h   | 50g oatmeal  |            |      |      |     |
+| 8h   | 2 peaches    |            |      |      |     |
