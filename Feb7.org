@@ -26,7 +26,7 @@
 | 8h    | 50g oatmeal        |            |  191 |    7 |   3 |
 | 8h    | 2 peaches          |            |  102 |    2 |   0 |
 | 10h30 | 500g grapes        |            |  345 |    0 |   0 |
-| 11h30 | whey hot chocolate |            |  316 |   45 |   2 |
+| 11h30 | whey hot chocolate |            |  316 |   39 |   2 |
 | 14h30 | apple              |            |   75 |    0 |   0 |
 | 15h   | costco instant pho |            |  260 |    5 |   3 |
 | 16h   | chocolate rx bar   |            |  210 |   12 |   9 |
@@ -38,10 +38,17 @@
 
 
 * Feb 9
+
+
 | Time  | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
 |-------+--------------------+------------+------+------+-----|
 | 8h    | Coffee             |            |   73 |    0 |   0 |
 | 8h    | mr noodles         |            |  200 |    4 |   5 |
 | 8h    | apple              |            |   75 |    0 |   0 |
-
+| 10h30 | apple              |            |   75 |    0 |   0 |
+| 11h30 | whey hot chocolate |            |  316 |   39 |   2 |
+| 12h   | apple              |            |   75 |    0 |   0 |
+| 13h   | 100g shrimp        |            |  106 |   20 |   2 |
+| 13h   | costco instant pho |            |  260 |    5 |   3 |
+|       |                    |            |      |      |     |
 
