@@ -50,5 +50,9 @@
 | 12h   | apple              |            |   75 |    0 |   0 |
 | 13h   | 100g shrimp        |            |  106 |   20 |   2 |
 | 13h   | costco instant pho |            |  260 |    5 |   3 |
-|       |                    |            |      |      |     |
+| 16h   | 2 apples           |            |      |      |     |
+| 16h   | orange             |            |      |      |     |
+| 16h30 | 5 potstickers      |            |      |      |     |
+| 17h30 | 50g oatmeal        |            |  191 |    7 |   3 |
+| 17h30 | 3Tbsp maple syrup  |            |      |      |     |
 
