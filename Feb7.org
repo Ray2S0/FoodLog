@@ -2,18 +2,18 @@
 
 | Time  | Food (mkdwn)      | Food (org) | kCal | Prot | Fat |
 |-------+-------------------+------------+------+------+-----|
-| 6h30  | Coffee            |            |      |      |     |
-| 6h30  | 50g oatmeal       |            |      |      |     |
+| 6h30  | Coffee            |            |   73 |    0 |   0 |
+| 6h30  | 50g oatmeal       |            |  191 |    7 |   3 |
 | 6h30  | 2Tbsp maple syrup |            |      |      |     |
 | 7h30  | sea salt rx bar   |            |  200 |   12 |   8 |
-| 10h   | peach             |            |      |      |     |
+| 10h   | peach             |            |   51 |    1 |   0 |
 | 10h30 | 6  potstickers    |            |      |      |     |
-| 12h   | mr noodles        |            |      |      |     |
+| 12h   | mr noodles        |            |  200 |    4 |   5 |
 | 13h   | gainz smoothie    |            |      |      |     |
 | 13h30 | green smoothie    |            |      |      |     |
-| 15h   | 2 peaches         |            |      |      |     |
-| 17h   | 50g oatmeal       |            |      |      |     |
-| 17h   | 2 peaches         |            |      |      |     |
+| 15h   | 2 peaches         |            |  102 |    2 |   0 |
+| 17h   | 50g oatmeal       |            |  191 |    7 |   3 |
+| 17h   | 2 peaches         |            |  102 |    2 |   0 |
 
 
 
@@ -22,9 +22,15 @@
 
 | Time  | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
 |-------+--------------------+------------+------+------+-----|
-| 8h    | Coffee             |            |      |      |     |
-| 8h    | 50g oatmeal        |            |      |      |     |
-| 8h    | 2 peaches          |            |      |      |     |
-| 10h30 | 500g grapes        |            |      |      |     |
+| 8h    | Coffee             |            |   73 |    0 |   0 |
+| 8h    | 50g oatmeal        |            |  191 |    7 |   3 |
+| 8h    | 2 peaches          |            |  102 |    2 |   0 |
+| 10h30 | 500g grapes        |            |  345 |    0 |   0 |
 | 11h30 | whey hot chocolate |            |  316 |   45 |   2 |
+| 14h30 | apple              |            |   75 |    0 |   0 |
+| 15h   | costco instant pho |            |  260 |    5 |   3 |
+| 16h   | chocolate rx bar   |            |  210 |   12 |   9 |
+| 17h30 | 6 potstickers      |            |      |      |     |
+| 20h   | 50g oatmeal        |            |  191 |    7 |   3 |
+| 20h   | 2Tbsp maple syrup  |            |      |      |     |
 |       |                    |            |      |      |     |
