@@ -34,3 +34,14 @@
 | 20h   | 50g oatmeal        |            |  191 |    7 |   3 |
 | 20h   | 2Tbsp maple syrup  |            |      |      |     |
 |       |                    |            |      |      |     |
+
+
+
+* Feb 9
+| Time  | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
+|-------+--------------------+------------+------+------+-----|
+| 8h    | Coffee             |            |   73 |    0 |   0 |
+| 8h    | mr noodles         |            |  200 |    4 |   5 |
+| 8h    | apple              |            |   75 |    0 |   0 |
+
+
