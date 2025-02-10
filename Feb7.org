@@ -4,10 +4,10 @@
 |-------+-------------------+------------+------+------+-----|
 | 6h30  | Coffee            |            |   73 |    0 |   0 |
 | 6h30  | 50g oatmeal       |            |  191 |    7 |   3 |
-| 6h30  | 2Tbsp maple syrup |            |      |      |     |
+| 6h30  | 2Tbsp maple syrup |            |  104 |    0 |   0 |
 | 7h30  | sea salt rx bar   |            |  200 |   12 |   8 |
 | 10h   | peach             |            |   51 |    1 |   0 |
-| 10h30 | 6  potstickers    |            |      |      |     |
+| 10h30 | 6 potstickers     |            |  256 |   10 |  10 |
 | 12h   | mr noodles        |            |  200 |    4 |   5 |
 | 13h   | gainz smoothie    |            |      |      |     |
 | 13h30 | green smoothie    |            |      |      |     |
@@ -30,12 +30,9 @@
 | 14h30 | apple              |            |   75 |    0 |   0 |
 | 15h   | costco instant pho |            |  260 |    5 |   3 |
 | 16h   | chocolate rx bar   |            |  210 |   12 |   9 |
-| 17h30 | 6 potstickers      |            |      |      |     |
+| 17h30 | 6 potstickers      |            |  256 |   10 |  10 |
 | 20h   | 50g oatmeal        |            |  191 |    7 |   3 |
-| 20h   | 2Tbsp maple syrup  |            |      |      |     |
-|       |                    |            |      |      |     |
-
-
+| 20h   | 2Tbsp maple syrup  |            |  104 |    0 |   0 |
 
 * Feb 9
 
@@ -50,20 +47,29 @@
 | 12h   | apple              |            |   75 |    0 |   0 |
 | 13h   | 100g shrimp        |            |  106 |   20 |   2 |
 | 13h   | costco instant pho |            |  260 |    5 |   3 |
-| 16h   | 2 apples           |            |      |      |     |
-| 16h   | orange             |            |   80 |    0 | 0   |
-| 16h30 | 5 potstickers      |            |      |      |     |
+| 16h   | 2 apples           |            |  150 |    0 |   0 |
+| 16h   | orange             |            |   45 |    0 |   0 |
+| 16h30 | 6 potstickers      |            |  256 |   10 |  10 |
 | 17h30 | 50g oatmeal        |            |  191 |    7 |   3 |
-| 17h30 | 2Tbsp maple syrup  |            |      |      |     |
+| 17h30 | 2Tbsp maple syrup  |            |  104 |    0 |   0 |
 
 * Feb 10
 
-| Time | Food (mkdwn)      | Food (org) | kCal | Prot | Fat |
-|------+-------------------+------------+------+------+-----|
-| 6h   | Coffee            |            |   73 |    0 |   0 |
-| 6h   | 50g oatmeal       |            |  191 |    7 |   3 |
-| 6h   | 2Tbsp maple syrup |            |      |      |     |
-| 8h   | orange            |            |   80 |    0 |   0 |
-| 9h30 | pancake           |            |      |      |     |
-| 9h30 | 2Tbsp maple syrup |            |      |      |     |
-|      |                   |            |      |      |     |
+| Time  | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
+|-------+--------------------+------------+------+------+-----|
+| 6h    | Coffee             |            |   73 |    0 |   0 |
+| 6h    | 50g oatmeal        |            |  191 |    7 |   3 |
+| 6h    | 2Tbsp maple syrup  |            |  104 |    0 |   0 |
+| 8h    | orange             |            |   80 |    0 |   0 |
+| 9h30  | pancake            |            |  270 |   23 |   4 |
+| 9h30  | 2Tbsp maple syrup  |            |  104 |    0 |   0 |
+| 13h   | 100g shrimp        |            |  106 |   20 |   2 |
+| 13h30 | 6 potstickers      |            |  256 |   10 |  10 |
+| 14h   | apple              |            |   75 |    0 |   0 |
+| 15h   | whey hot chocolate |            |  316 |   39 |   2 |
+| 17h   | mr noodles         |            |  200 |    4 |   5 |
+
+
+
+
+
