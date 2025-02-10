@@ -51,8 +51,19 @@
 | 13h   | 100g shrimp        |            |  106 |   20 |   2 |
 | 13h   | costco instant pho |            |  260 |    5 |   3 |
 | 16h   | 2 apples           |            |      |      |     |
-| 16h   | orange             |            |      |      |     |
+| 16h   | orange             |            |   80 |    0 | 0   |
 | 16h30 | 5 potstickers      |            |      |      |     |
 | 17h30 | 50g oatmeal        |            |  191 |    7 |   3 |
-| 17h30 | 3Tbsp maple syrup  |            |      |      |     |
+| 17h30 | 2Tbsp maple syrup  |            |      |      |     |
 
+* Feb 10
+
+| Time | Food (mkdwn)      | Food (org) | kCal | Prot | Fat |
+|------+-------------------+------------+------+------+-----|
+| 6h   | Coffee            |            |   73 |    0 |   0 |
+| 6h   | 50g oatmeal       |            |  191 |    7 |   3 |
+| 6h   | 2Tbsp maple syrup |            |      |      |     |
+| 8h   | orange            |            |   80 |    0 |   0 |
+| 9h30 | pancake           |            |      |      |     |
+| 9h30 | 2Tbsp maple syrup |            |      |      |     |
+|      |                   |            |      |      |     |
