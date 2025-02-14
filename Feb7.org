@@ -68,6 +68,63 @@
 | 14h   | apple              |            |   75 |    0 |   0 |
 | 15h   | whey hot chocolate |            |  316 |   39 |   2 |
 | 17h   | mr noodles         |            |  200 |    4 |   5 |
+| 19h   | chocolate rx bar   |            |  210 |   12 |   9 |
+
+
+* Feb 11
+
+| Time  | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
+|-------+--------------------+------------+------+------+-----|
+| 8h    | Coffee             |            |   73 |    0 |   0 |
+| 8h    | pancake            |            |  270 |   23 |   4 |
+| 8h    | apple              |            |   75 |    0 |   0 |
+|       | st john's wort     |            |      |      |     |
+| 10h   | whey hot chocolate |            |  316 |   39 |   2 |
+| 11h30 | orange             |            |   45 |    0 |   0 |
+|       | d3, liver, wort    |            |      |      |     |
+| 13h   | mr noodles         |            |  200 |    4 |   5 |
+| 13h30 | 6 potstickers      |            |  256 |   10 |  10 |
+| 15h   | green smoothie     |            |      |      |     |
+| 18h   | gainz smoothie     |            |      |      |     |
+
+* Feb 12
+
+| Time  | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
+|-------+--------------------+------------+------+------+-----|
+| 6h    | Coffee             |            |   73 |    0 |   0 |
+| 6h    | pancake            |            |  270 |   23 |   4 |
+| 6h    | 2Tbsp maple syrup  |            |  104 |    0 |   0 |
+| 9h30  | costco instant pho |            |  260 |    5 |   3 |
+| 10h   | apple              |            |   75 |    0 |   0 |
+| 10h30 | 100g tofu          |            |      |      |     |
+|       | d3, liver, wort    |            |      |      |     |
+| 13h   | mr noodles         |            |  200 |    4 |   5 |
+| 16h   | chocolate rx bar   |            |  210 |   12 |   9 |
+| 18h   | chocolate rx bar   |            |  210 |   12 |   9 |
+
+
+* Feb 13
+
+| Time  | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
+|-------+--------------------+------------+------+------+-----|
+| 7h    | Coffee             |            |   73 |    0 |   0 |
+| 7h    | pancake            |            |  270 |   23 |   4 |
+| 7h    | 2Tbsp maple syrup  |            |  104 |    0 |   0 |
+| 10h   | chocolate rx bar   |            |  210 |   12 |   9 |
+| 11h30 | costco instant pho |            |  260 |    5 |   3 |
+| 14h   | whey hot chocolate |            |  316 |   39 |   2 |
+| 16h   | mr noodles         |            |  200 |    4 |   5 |
+| 22h   | sea salt rx bar    |            |  200 |   12 |   8 |
+
+
+
+
+
+
+
+
+
+
 
 
 
