@@ -122,10 +122,13 @@
 
 * Feb 18
 
-| Time | Food (mkdwn)    | Food (org) | kCal | Prot | Fat |
-|------+-----------------+------------+------+------+-----|
-| 6h   | Coffee          |            |   73 |    0 |   0 |
-| 6h   | Breakfast Curry |            |  401 |   24 | 15  |
+| Time | Food (mkdwn)      | Food (org) | kCal | Prot | Fat |
+|------+-------------------+------------+------+------+-----|
+| 6h   | Coffee            |            |   73 |    0 |   0 |
+| 6h   | Breakfast Curry   |            |  401 |   24 |  15 |
+| 8h30 | pancakes          |            |  270 |   23 |   4 |
+| 8h30 | 2Tbsp maple syrup |            |  104 |    0 |   0 |
+|      | d3, liver, wort   |            |      |      |     |
 
 
 
