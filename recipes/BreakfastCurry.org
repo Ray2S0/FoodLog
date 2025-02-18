@@ -1,0 +1,21 @@
+
+
+* Individual Recipe
+
+| 8h | Breakfast Curry |   | 401 | 24 | 15 |
+
+
+
+* Bulk Recipe
+
+|   g | Ingredient        | kCal | Prot | Fat |
+|-----+-------------------+------+------+-----|
+| 110 | glico curry       |  550 |    5 |  40 |
+| 180 | rice              |  600 |    8 |   0 |
+|  50 | beet              |   22 |    0 |   0 |
+|  45 | carrot            |   16 |    0 |   0 |
+|  85 | peas              |  100 |    6 |   0 |
+| 196 | can of chicken    |  213 |   46 |   4 |
+| 400 | block of tofu     |  564 |   56 |  33 |
+|     | Total, 5 servings | 2005 |  121 |  77 |
+|     | PER SERVING       |  401 |   24 |  15 |

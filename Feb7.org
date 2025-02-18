@@ -87,6 +87,7 @@
 | 15h   | green smoothie     |            |      |      |     |
 | 18h   | gainz smoothie     |            |      |      |     |
 
+
 * Feb 12
 
 | Time  | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
@@ -117,7 +118,14 @@
 | 22h   | sea salt rx bar    |            |  200 |   12 |   8 |
 
 
+* Brain Gremlins Interlude
 
+* Feb 18
+
+| Time | Food (mkdwn)    | Food (org) | kCal | Prot | Fat |
+|------+-----------------+------------+------+------+-----|
+| 6h   | Coffee          |            |   73 |    0 |   0 |
+| 6h   | Breakfast Curry |            |  401 |   24 | 15  |
 
 
 
