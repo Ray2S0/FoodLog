@@ -4,7 +4,7 @@
 
 | Time | Food (mkdwn)       | Food (org)         | kCal | Prot | Fat |
 |------+--------------------+--------------------+------+------+-----|
-| h    | whey hot chocolate | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   26 |   2 |
+| h    | [whey hot chocolate](./recipes/wheyHotChocolate.org) | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   26 |   2 |
 
 
 markdown:
