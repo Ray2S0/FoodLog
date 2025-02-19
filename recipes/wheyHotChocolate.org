@@ -2,9 +2,9 @@
 
 ** Links
 
-| Time | Food (mkdwn)       | Food (org) | kCal | Prot | Fat |
-|------+--------------------+------------+------+------+-----|
-| h    | whey hot chocolate |            |  316 |   26 | 2   |
+| Time | Food (mkdwn)       | Food (org)         | kCal | Prot | Fat |
+|------+--------------------+--------------------+------+------+-----|
+| h    | whey hot chocolate | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   26 |   2 |
 
 
 markdown:
