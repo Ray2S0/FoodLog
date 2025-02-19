@@ -122,13 +122,25 @@
 
 * Feb 18
 
-| Time | Food (mkdwn)      | Food (org) | kCal | Prot | Fat |
-|------+-------------------+------------+------+------+-----|
-| 6h   | Coffee            |            |   73 |    0 |   0 |
-| 6h   | Breakfast Curry   |            |  401 |   24 |  15 |
-| 8h30 | pancakes          |            |  270 |   23 |   4 |
-| 8h30 | 2Tbsp maple syrup |            |  104 |    0 |   0 |
-|      | d3, liver, wort   |            |      |      |     |
+| Time | Food (mkdwn)            | Food (org) | kCal | Prot | Fat |
+|------+-------------------------+------------+------+------+-----|
+| 6h   | Coffee                  |            |   73 |    0 |   0 |
+| 6h   | Breakfast Curry         |            |  401 |   24 |  15 |
+| 8h30 | pancakes                |            |  270 |   23 |   4 |
+| 8h30 | 2Tbsp maple syrup       |            |  104 |    0 |   0 |
+|      | d3, liver, wort         |            |      |      |     |
+| 11h  | egg fried rice w shrimp |            |  450 |   15 |   8 |
+| 14h  | green smoothie          |            |  400 |    5 |   7 |
+| 16h  | gainz smoothie          |            |  400 |   35 |   7 |
+| 18h  | chocolate rx bar        |            |  210 |   12 |   9 |
+
+
+* Feb 19
+
+| Time | Food (mkdwn)            | Food (org) | kCal | Prot | Fat |
+|------+-------------------------+------------+------+------+-----|
+| 6h   | Coffee                  |            |   73 |    0 |   0 |
+| 6h   | Breakfast Curry         |            |  401 |   24 |  15 |
 
 
 
