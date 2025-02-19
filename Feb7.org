@@ -137,10 +137,18 @@
 
 * Feb 19
 
-| Time | Food            | kCal | Prot | Fat |
-|------+-----------------+------+------+-----|
-| 6h   | Coffee          |   73 |    0 |   0 |
-| 6h   | Breakfast Curry |  401 |   24 |  15 |
+| Time  | Food                    | kCal | Prot | Fat |
+|-------+-------------------------+------+------+-----|
+| 6h    | Coffee                  |   73 |    0 |   0 |
+| 6h    | Breakfast Curry         |  401 |   24 |  15 |
+| 9h    | egg fried rice w shrimp |  450 |   15 |   8 |
+| 11h   | 2 oranges               |   90 |    0 |   0 |
+| 11h30 | whey hot chocolate      |  316 |   39 |   2 |
+| 14h   | orange                  |   45 |    0 |   0 |
+| 16h   | mr noodles              |  200 |    4 |   5 |
+| 18h   | 8 potstickers           |      |      |     |
+
+
 
 
 
