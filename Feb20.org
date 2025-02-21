@@ -16,9 +16,16 @@
 
 * Feb 21
 
-| Time | Food              | kCal | Prot | Fat |
-|------+-------------------+------+------+-----|
-| 5h   | Coffee            |   73 |    0 |   0 |
-| 5h   | shrimp fried rice |  500 |   15 |  10 |
+| Time  | Food               | kCal | Prot | Fat |
+|-------+--------------------+------+------+-----|
+| 5h    | Coffee             |   73 |    0 |   0 |
+| 5h    | shrimp fried rice  |  500 |   15 |  10 |
+|       | d3 & liver & wort  |      |      |     |
+| 10h   | whey hot chocolate |  316 |   39 |   2 |
+| 12h   | chocolate rx bar   |  210 |   12 |   9 |
+| 13h30 | costco pho         |  260 |    5 |   3 |
+| 14h   | 6 potstickers      |      |      |     |
+| 16h30 | pancake            |  270 |   23 |   4 |
+| 5h    | 2Tbsp maple syrup  |  104 |    0 |   0 |
 
 
