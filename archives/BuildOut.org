@@ -1,0 +1,10 @@
+
+
+* Wow that escalated quickly
+
+- [ ] Write in org, reports & archive in markdown
+
+
+Index of Recipes with everything in alphabetical order, so I can search for the line I want to add to my org mode.
+
+SQLite? Later. But yes. 

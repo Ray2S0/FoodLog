@@ -14,4 +14,11 @@
 | 17h  | shrimp fried rice |  500 |   15 | 10  |
 
 
+* Feb 21
+
+| Time | Food              | kCal | Prot | Fat |
+|------+-------------------+------+------+-----|
+| 5h   | Coffee            |   73 |    0 |   0 |
+| 5h   | shrimp fried rice |  500 |   15 |  10 |
+
 
