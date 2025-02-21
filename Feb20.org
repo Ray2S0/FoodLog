@@ -9,8 +9,9 @@
 | 6h30 | blueberry rx bar  |  190 |   12 |   6 |
 | 8h   | orange            |   45 |    0 |   0 |
 | 9h30 | mr noodles        |  200 |    4 |   5 |
-| 13h  | restaurant pho    |  500 |   30 | 10  |
-
+| 13h  | restaurant pho    |  500 |   30 |  10 |
+| 15h  | orange            |   45 |    0 |   0 |
+| 17h  | shrimp fried rice |  500 |   15 | 10  |
 
 
 
