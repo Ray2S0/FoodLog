@@ -2,7 +2,7 @@
 
 * Individual Recipe
 
-| 8h | Breakfast Curry |   | 401 | 24 | 15 |
+| 8h | Breakfast Curry    | 409 | 26 | 16 |
 
 
 
@@ -17,5 +17,6 @@
 |  85 | peas              |  100 |    6 |   0 |
 | 196 | can of chicken    |  213 |   46 |   4 |
 | 400 | block of tofu     |  564 |   56 |  33 |
-|     | Total, 5 servings | 2005 |  121 |  77 |
-|     | PER SERVING       |  401 |   24 |  15 |
+| 250 | bone broth        |   40 |    9 |   3 |
+|     | Total, 5 servings | 2045 |  130 |  80 |
+|     | PER SERVING       |  409 |   26 |  16 |
