@@ -68,9 +68,22 @@
 
 
 * Feb 24
-| Time | Food                                            | org             | kCal | Prot | Fat |
-|------+-------------------------------------------------+-----------------+------+------+-----|
-| 6h   | Coffee                                          |                 |   73 |    0 |   0 |
-| 6h   | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  421 |   26 |  16 |
-|      | TOTAL                                           |                 |  494 |   26 |  16 |
+| Time  | Food                                                 | org                | kCal | Prot | Fat |
+|-------+------------------------------------------------------+--------------------+------+------+-----|
+| 6h    | Coffee                                               |                    |   73 |    0 |   0 |
+| 6h    | [Breakfast Curry](./recipes/BreakfastCurry.org)      | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]]    |  421 |   26 |  16 |
+|       | d3 & liver & st john's wort                          |                    |      |      |     |
+| 9h30  | [whey hot chocolate](./recipes/wheyHotChocolate.org) | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   36 |   1 |
+| 12h30 | lasagna                                              |                    |  350 |   22 |  12 |
+| 13h30 | lasagna                                              |                    |  350 |   22 |  12 |
+|       | 8 chicken potstickers                                |                    |      |      |     |
+|       | TOTAL                                                |                    | 1510 |  106 |  41 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
+
+
+
+
+
+
+
+
