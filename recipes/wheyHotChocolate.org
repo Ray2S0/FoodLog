@@ -2,9 +2,9 @@
 
 ** Links
 
-| Time | Food (mkdwn)       | Food (org)         | kCal | Prot | Fat |
-|------+--------------------+--------------------+------+------+-----|
-| h    | [whey hot chocolate](./recipes/wheyHotChocolate.org) | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   26 |   2 |
+| Time | Food (mkdwn)                                         | Food (org)         | kCal | Prot | Fat |
+|------+------------------------------------------------------+--------------------+------+------+-----|
+| h    | [whey hot chocolate](./recipes/wheyHotChocolate.org) | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   36 |   1 |
 
 
 markdown:
@@ -14,14 +14,14 @@ org:
 
 |     g | Ingredient      | kCal | Prot | Fat |
 |-------+-----------------+------+------+-----|
-|    35 | whey protein    |  152 |   26 |   1 |
+|    44 | whey protein    |  162 |   36 |   1 |
 |    25 | soy milk powder |   85 |   12 |   0 |
 |     4 | cocoa           |    8 |    1 |   1 |
 |    19 | white sugar     |   71 |    0 |   0 |
 |     1 | vanilla extract |    0 |    0 |   0 |
 |   250 | water           |    0 |    0 |   0 |
 |-------+-----------------+------+------+-----|
-| TOTAL |                 |  316 |   45 |  2  |
+| TOTAL |                 |  316 |   45 |   2 |
 
 
 

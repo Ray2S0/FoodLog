@@ -2,7 +2,7 @@
 
 * Individual Recipe
 
-| 8h | Breakfast Curry    | 409 | 26 | 16 |
+| 8h | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] | 421 | 26 | 16 |
 
 
 
@@ -18,5 +18,8 @@
 | 196 | can of chicken    |  213 |   46 |   4 |
 | 400 | block of tofu     |  564 |   56 |  33 |
 | 250 | bone broth        |   40 |    9 |   3 |
-|     | Total, 5 servings | 2045 |  130 |  80 |
-|     | PER SERVING       |  409 |   26 |  16 |
+|     | Total, 5 servings | 2105 |  130 |  80 |
+|     | PER SERVING       |  421 |   26 |  16 |
+#+TBLFM: @10$3=vsum(@2..@-1)::@10$4=vsum(@2..@-1)::@10$5=vsum(@2..@-1)::@11$3=@10$3/5::@11$4=@10$4/5::@11$5=@10$5/5
+
+

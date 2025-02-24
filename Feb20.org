@@ -11,8 +11,9 @@
 | 9h30 | mr noodles        |  200 |    4 |   5 |
 | 13h  | restaurant pho    |  500 |   30 |  10 |
 | 15h  | orange            |   45 |    0 |   0 |
-| 17h  | shrimp fried rice |  500 |   15 | 10  |
-
+| 17h  | shrimp fried rice |  500 |   15 |  10 |
+|      |                   | 1927 |   84 |  35 |
+#+TBLFM: @>$3=vsum(@2..@-1)::@>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)
 
 * Feb 21
 
@@ -27,6 +28,11 @@
 | 14h   | 6 potstickers      |      |      |     |
 | 16h30 | pancake            |  270 |   23 |   4 |
 | 5h    | 2Tbsp maple syrup  |  104 |    0 |   0 |
+|       |                    | 1733 |   94 |  28 |
+#+TBLFM: @>$3=vsum(@2..@-1)::@>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)
+
+
+
 
 * Feb 22
 
@@ -38,3 +44,33 @@
 | 10h  | pancake           |  270 |   23 |   4 |
 | 10h  | 2Tbsp maple syrup |  104 |    0 |   0 |
 |      | d3 & liver & wort |      |      |     |
+| 14h  | restaurant pho    |  550 |   18 |  10 |
+| 16h  | mr noodles        |  200 |    4 |   5 |
+|      |                   | 1606 |   71 |  35 |
+#+TBLFM: @>$3=vsum(@2..@-1)::@>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)
+
+
+* Feb 23
+
+| Time  | Food                                                 | org                | kCal | Prot | Fat |
+|-------+------------------------------------------------------+--------------------+------+------+-----|
+| 5h30  | blueberry rx bar                                     |                    |  190 |   12 |   6 |
+| 6h    | Coffee                                               |                    |   73 |    0 |   0 |
+| 6h    | [Breakfast Curry](./recipes/BreakfastCurry.org)      | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]]    |  421 |   26 |  16 |
+| 9h30  | [whey hot chocolate](./recipes/wheyHotChocolate.org) | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   36 |   1 |
+|       | d3 & liver & st john's wort                          |                    |      |      |     |
+| 12h   | shrimp fried rice                                    |                    |  250 |    8 |  10 |
+| 14h   | shrimp fried rice                                    |                    |  300 |   12 |  10 |
+| 16h   | lasagna                                              |                    |  350 |   22 |  12 |
+| 19h30 | 6 potstickers                                        |                    |      |      |     |
+|       | TOTAL                                                |                    | 1900 |  116 |  55 |
+#+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
+
+
+* Feb 24
+| Time | Food                                            | org             | kCal | Prot | Fat |
+|------+-------------------------------------------------+-----------------+------+------+-----|
+| 6h   | Coffee                                          |                 |   73 |    0 |   0 |
+| 6h   | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  421 |   26 |  16 |
+|      | TOTAL                                           |                 |  494 |   26 |  16 |
+#+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
