@@ -1,0 +1,17 @@
+* Green Smoothie
+
+| 9h30 | [Green Smoothie](./recipes/GreenSmoothie.org) | [['file:recipes/GreenSmoothie.org][green smoothie]] | 336 | 27 | 0 |   
+
+
+* Recipe
+
+| grams | ingredient        | kCal | prot | fat |
+|-------+-------------------+------+------+-----|
+|    89 | frozen spinach    |   30 |    3 |   0 |
+|   110 | frozen mango      |   63 |    1 |   0 |
+|    25 | powdered soy milk |   85 |   13 |   0 |
+|   200 | egg white         |   90 |   10 |   0 |
+|    24 | maple syrup       |   63 |    0 |   0 |
+|    20 | lemon juice       |    5 |    0 |   0 |
+|       | TOTAL             |  336 |   27 |   0 |
+#+TBLFM: @>$3=vsum(@2..@-1)::@>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)

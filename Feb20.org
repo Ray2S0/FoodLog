@@ -89,7 +89,8 @@
 | 6h   | Coffee                                          |                 |   73 |    0 |   0 |
 | 6h   | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  421 |   26 |  16 |
 |      | d3 & liver & st john's wort                     |                 |      |      |     |
-|      | TOTAL                                           |                 |  494 |   26 |  16 |
+| 9h30 | [Green Smoothie](./recipes/GreenSmoothie.org)   | [['file:recipes/GreenSmoothie.org][green smoothie]]  |  336 |   27 |   0 |
+|      |                                                 | TOTAL           |  830 |   53 |  16 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
