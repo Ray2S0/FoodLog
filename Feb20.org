@@ -62,8 +62,8 @@
 | 12h   | shrimp fried rice                                    |                    |  250 |    8 |  10 |
 | 14h   | shrimp fried rice                                    |                    |  300 |   12 |  10 |
 | 16h   | lasagna                                              |                    |  350 |   22 |  12 |
-| 19h30 | 6 potstickers                                        |                    |      |      |     |
-|       | TOTAL                                                |                    | 1900 |  116 |  55 |
+| 19h30 | 6 potstickers                                        |                    |  255 |   10 |  10 |
+|       | TOTAL                                                |                    | 2155 |  126 |  65 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
@@ -77,20 +77,25 @@
 | 9h30  | [whey hot chocolate](./recipes/wheyHotChocolate.org) | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   36 |   1 |
 | 12h30 | lasagna                                              |                    |  350 |   22 |  12 |
 | 13h30 | lasagna                                              |                    |  350 |   22 |  12 |
-|       | 8 chicken potstickers                                |                    |      |      |     |
-|       | TOTAL                                                |                    | 1510 |  106 |  41 |
+| 16h   | 8 chicken potstickers                                |                    |  370 |   14 |  12 |
+| 18h   | oatmeal with fruit                                   |                    |  200 |    0 |   0 |
+|       | TOTAL                                                |                    | 2080 |  120 |  53 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
 * Feb 25
 
-| Time | Food                                            | org             | kCal | Prot | Fat |
-|------+-------------------------------------------------+-----------------+------+------+-----|
-| 6h   | Coffee                                          |                 |   73 |    0 |   0 |
-| 6h   | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  421 |   26 |  16 |
-|      | d3 & liver & st john's wort                     |                 |      |      |     |
-| 9h30 | [Green Smoothie](./recipes/GreenSmoothie.org)   | [['file:recipes/GreenSmoothie.org][green smoothie]]  |  336 |   27 |   0 |
-|      |                                                 | TOTAL           |  830 |   53 |  16 |
+| Time  | Food                                            | org             | kCal | Prot | Fat |
+|-------+-------------------------------------------------+-----------------+------+------+-----|
+| 6h    | Coffee                                          |                 |   73 |    0 |   0 |
+| 6h    | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  421 |   26 |  16 |
+|       | d3 & liver & st john's wort                     |                 |      |      |     |
+| 9h30  | [Green Smoothie](./recipes/GreenSmoothie.org)   | [['file:recipes/GreenSmoothie.org][green smoothie]]  |  336 |   27 |   0 |
+| 12h   | costco pho                                      |                 |  260 |    5 |   3 |
+| 12h30 | lasagna                                         |                 |  350 |   22 |  12 |
+| 17h   | skyr & fruit                                    |                 |  220 |   17 |   6 |
+| 17h30 | 12 potstickers                                  |                 |  555 |   21 |  18 |
+|       |                                                 | TOTAL           | 2215 |  118 |  55 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
