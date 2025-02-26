@@ -110,7 +110,8 @@
 | 10h   | [whey hot chocolate](./recipes/wheyHotChocolate.org) | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   36 |   1 |
 | 12h30 | lasagna                                              |                    |  350 |   22 |  12 |
 | 12h30 | 500g grapes                                          |                    |  500 |    3 |   0 |
-|       | TOTAL                                                |                    | 1705 |   87 |  29 |
+| 14h30 | lasagna                                              |                    |  350 |   22 |  12 |
+|       | TOTAL                                                |                    | 2055 |  109 |  41 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
