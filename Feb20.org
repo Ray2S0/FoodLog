@@ -118,13 +118,17 @@
 * Feb 27
 
 
-| Time  | Food                | org | kCal | Prot | Fat |
-|-------+---------------------+-----+------+------+-----|
-| 6h    | Coffee              |     |   73 |    0 |   0 |
-| 6h    | lasagna             |     |  350 |   22 |  12 |
-| 6h    | 100g skyr and fruit |     |      |      |     |
-| 10h30 | 100g shrimp         |     |      |      |     |
-|       |                     |     |      |      |     |
+| Time  | Food                          | org | kCal | Prot | Fat |
+|-------+-------------------------------+-----+------+------+-----|
+| 6h    | Coffee                        |     |   73 |    0 |   0 |
+| 6h    | lasagna                       |     |  350 |   22 |  12 |
+| 6h    | 100g skyr and fruit           |     |  120 |   11 |   0 |
+| 10h30 | 100g shrimp                   |     |  106 |   20 |   2 |
+| 12h30 | 8 potstickers                 |     |  370 |   14 |  12 |
+| 13h   | 30g oatmeal 1Tbsp maple syrup |     |   70 |    0 |   0 |
+| 15h30 | restaurant pho                |     |  500 |   15 |  10 |
+| 15h30 | 100g shrimp                   |     |  106 |   20 |   2 |
+|       | TOTAL                         |     | 1695 |  102 |  38 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
