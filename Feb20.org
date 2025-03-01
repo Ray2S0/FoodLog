@@ -128,12 +128,43 @@
 | 13h   | 30g oatmeal 1Tbsp maple syrup |     |   70 |    0 |   0 |
 | 15h30 | restaurant pho                |     |  500 |   15 |  10 |
 | 15h30 | 100g shrimp                   |     |  106 |   20 |   2 |
-|       | TOTAL                         |     | 1695 |  102 |  38 |
+| 17h30 | 100g shrimp                   |     |  106 |   20 |   2 |
+| 17h30 | mr noodles                    |     |  200 |    4 |   5 |
+|       | TOTAL                         |     | 2001 |  126 |  45 |
+#+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
+
+* Feb 28
+
+| Time | Food                | org | kCal | Prot | Fat |
+|------+---------------------+-----+------+------+-----|
+| 6h   | Coffee              |     |   73 |    0 |   0 |
+| 6h   | pancakes            |     |      |      |     |
+| 9h   | green smoothie      |     |      |      |     |
+| 11h  | costco pho          |     |      |      |     |
+| 11h  | 60g bone broth      |     |      |      |     |
+| 13h  | fish and chips      |     |  950 |   35 |  18 |
+| 16h  | pancake             |     |      |      |     |
+| 16h  | 2 Tbsp mapble syrup |     |      |      |     |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
 
+* Mar 1
 
+| Time  | Food                        | org | kCal | Prot | Fat |   |
+|-------+-----------------------------+-----+------+------+-----+---|
+| 67    | Coffee                      |     |   73 |    0 |   0 |   |
+| 7h    | pancakes                    |     |      |      |     |   |
+| 7h    | 2 Tbsp maple syrup          |     |      |      |     |   |
+| 9h    | d3 & liver & st john's wort |     |      |      |     |   |
+| 9h30  | 100g shrimp                 |     |      |      |     |   |
+| 9h30  | 50g oatmeal                 |     |      |      |     |   |
+| 9h30  | 2 peaches                   |     |      |      |     |   |
+| 11h   | coffee                      |     |   73 |    0 |   0 |   |
+| 12h30 | restaurant pho              |     |      |      |     |   |
+| 12h30 | 100g shrimp                 |     |      |      |     |   |
+|       | TOTAL                       |     |      |      |     |   |
+#+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
 
