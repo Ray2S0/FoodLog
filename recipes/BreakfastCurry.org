@@ -2,36 +2,26 @@
 
 * Individual Recipe
 
-| 8h | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] | 421 | 26 | 16 |
+| 8h | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] | 455 | 35 | 17 |
 
 
 
 * Bulk Recipe
 
-|   g | Ingredient        | kCal | Prot | Fat |
-|-----+-------------------+------+------+-----|
-| 110 | glico curry       |  550 |    5 |  40 |
-| 180 | rice              |  600 |    8 |   0 |
-|  50 | beet              |   22 |    0 |   0 |
-|  45 | carrot            |   16 |    0 |   0 |
-|  85 | peas              |  100 |    6 |   0 |
-| 196 | can of chicken    |  213 |   46 |   4 |
-| 400 | block of tofu     |  564 |   56 |  33 |
-| 250 | bone broth        |   40 |    9 |   3 |
-|     | Total, 5 servings | 2105 |  130 |  80 |
-|     | PER SERVING       |  421 |   26 |  16 |
+|   g | Ingredient        |  kCal | Prot |  Fat |
+|-----+-------------------+-------+------+------|
+| 110 | glico curry       |   550 |    5 |   40 |
+| 180 | rice              |   600 |    8 |    0 |
+|  50 | beet              |    22 |    0 |    0 |
+|  45 | carrot            |    16 |    0 |    0 |
+|  85 | peas              |   100 |    6 |    0 |
+| 392 | can of chicken    |   426 |   92 |    8 |
+| 400 | block of tofu     |   520 |   56 |   32 |
+| 250 | bone broth        |    40 |    9 |    3 |
+|     | Total, 5 servings |  2274 |  176 |   83 |
+|     | PER SERVING       | 454.8 | 35.2 | 16.6 |
 #+TBLFM: @10$3=vsum(@2..@-1)::@10$4=vsum(@2..@-1)::@10$5=vsum(@2..@-1)::@11$3=@10$3/5::@11$4=@10$4/5::@11$5=@10$5/5
 
 
-New Tofu:
-
-Per 1/4 package
-
-kCal 1 : 130  4 : ?
-protein 1 : 14 4 : ?
-fat 1 : 8 4 :?
-
-
-2 cans of chicken
 
 
