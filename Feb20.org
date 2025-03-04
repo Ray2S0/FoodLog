@@ -188,8 +188,9 @@
 
 ** Notes
 Doubled chicken in the Breakfast Curry
+18h I "woke up". I went from zombie fugue state to actually human. 
 
-* Mar 2
+* Mar 3
 
 | Time | Food                                                 | org                | kCal | Prot | Fat |
 |------+------------------------------------------------------+--------------------+------+------+-----|
@@ -201,9 +202,23 @@ Doubled chicken in the Breakfast Curry
 | 12h  | 2 Tbsp mapble syrup                                  |                    |  104 |    0 |   0 |
 | 13h  | mr noodles                                           |                    |  200 |    4 |   5 |
 | 13h  | mr noodles                                           |                    |  200 |    4 |   5 |
-|      | TOTAL                                                |                    | 1618 |  102 |  32 |
+| 17h  | skyr                                                 |                    |  150 |   18 |   6 |
+| 17h  | 2 Tbsp maple syrup                                   |                    |  104 |    0 |   0 |
+| 19h  | 50g oatmeal                                          |                    |  175 |    7 |   4 |
+| 19h  | 2 Tbsp maple syrup                                   |                    |  104 |    0 |   0 |
+|      | TOTAL                                                |                    | 2151 |  127 |  42 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
+* Mar 4
+
+| Time | Food                                            | org             | kCal | Prot | Fat |
+|------+-------------------------------------------------+-----------------+------+------+-----|
+| 7h   | Coffee                                          |                 |   73 |    0 |   0 |
+| 7h   | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  455 |   35 |  17 |
+| 10h  | d3 & liver & st john's wort                     |                 |      |      |     |
+| 10h  | [Green Smoothie](./recipes/GreenSmoothie.org)   | [['file:recipes/GreenSmoothie.org][green smoothie]]  |  336 |   27 |   0 |
+|      | TOTAL                                           |                 |  864 |   62 |  17 |
+#+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
 
