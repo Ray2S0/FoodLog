@@ -1,0 +1,33 @@
+* Red Lentil Pasta
+
+| 12h | [Red Lentil Pasta](.recipes/RedLentilPasta.org) | [['file:../recipes/RedLentilPasta.org][Red Lentil Pasta]] | 755 | 69 | 21|
+
+
+
+The point of the recipe:
+- red lentil penne
+- nutritional yeast
+
+I thought it would be cool to add meatballs here. looking at the macros, I regret that.
+
+To test:
+- ground turkey
+- swap tofu for powdered soy milk?
+
+
+
+* Bulk Recipe
+
+|   g | Ingredient        |  kCal | Prot |  Fat |
+|-----+-------------------+-------+------+------|
+|  85 | costco meatballs  |   234 |   15 |   16 |
+| 250 | bone broth        |    40 |    9 |    3 |
+| 255 | red lentil penne  |   870 |   66 |    3 |
+| 400 | block of tofu     |   520 |   56 |   32 |
+|  40 | nutritional yeast |   160 |   24 |    0 |
+|  40 | mac and cheese    |   160 |    3 |    6 |
+|  45 | onion             |    63 |    2 |    0 |
+|  85 | peas              |  2047 |  175 |   60 |
+|     | Total, 5 servings |    20 |  1.2 |    0 |
+|     | PER SERVING       | 754.8 | 68.8 | 21.6 |
+#+TBLFM: @9$3=vsum(@2..@-1)::@9$4=vsum(@2..@-1)::@9$5=vsum(@2..@-1)::@10$3=@9$3/5::@10$4=@9$4/5::@10$5=@9$5/5
