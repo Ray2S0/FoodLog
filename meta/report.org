@@ -1,0 +1,10 @@
+
+* Generate biweekly readme.md
+
+Use org-babel and bash
+
+- move the current Readme to the archive.
+- calculate tables
+- remove the org column
+- remove the table functionality
+- change headers from * to #

@@ -1,0 +1,14 @@
+
+
+* Issues
+
+** should probably learn org-agenda for this
+
+** shopping lists
+- requires owncloud to sync to phone
+- Could possibly have recurring amazon and instacart orders
+- honestly i want recurring "go buy this" lists that are for me
+- with estimated price tags
+
+
+** SQLite
