@@ -211,13 +211,18 @@ Doubled chicken in the Breakfast Curry
 
 * Mar 4
 
-| Time | Food                                            | org             | kCal | Prot | Fat |
-|------+-------------------------------------------------+-----------------+------+------+-----|
-| 7h   | Coffee                                          |                 |   73 |    0 |   0 |
-| 7h   | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  455 |   35 |  17 |
-| 10h  | d3 & liver & st john's wort                     |                 |      |      |     |
-| 10h  | [Green Smoothie](./recipes/GreenSmoothie.org)   | [['file:recipes/GreenSmoothie.org][green smoothie]]  |  336 |   27 |   0 |
-|      | TOTAL                                           |                 |  864 |   62 |  17 |
+| Time  | Food                                            | org             | kCal | Prot | Fat |
+|-------+-------------------------------------------------+-----------------+------+------+-----|
+| 7h    | Coffee                                          |                 |   73 |    0 |   0 |
+| 7h    | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  455 |   35 |  17 |
+| 10h   | d3 & liver & st john's wort                     |                 |      |      |     |
+| 10h   | [Green Smoothie](./recipes/GreenSmoothie.org)   | [['file:recipes/GreenSmoothie.org][green smoothie]]  |  336 |   27 |   0 |
+| 17h   | skyr                                            |                 |  150 |   18 |   6 |
+| 17h   | 2 Tbsp maple syrup                              |                 |  104 |    0 |   0 |
+| 13h   | costco pho                                      |                 |  260 |    5 |   3 |
+| 13h   | 100g shrimp                                     |                 |  106 |   20 |   2 |
+| 16h30 | 8 potstickers                                   |                 |  370 |   14 |  12 |
+|       | TOTAL                                           |                 | 1854 |  119 |  40 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
