@@ -49,18 +49,18 @@
 
 # Feb 23
 
-| Time  | Food                                                 | org                | kCal | Prot | Fat |
-|-------|------------------------------------------------------|--------------------|------|------|-----|
-| 5h30  | blueberry rx bar                                     |                    |  190 |   12 |   6 |
-| 6h    | Coffee                                               |                    |   73 |    0 |   0 |
-| 6h    | [Breakfast Curry](./recipes/BreakfastCurry.org)      | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]]    |  421 |   26 |  16 |
-| 9h30  | [whey hot chocolate](./recipes/wheyHotChocolate.org) | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   36 |   1 |
-|       | d3 & liver & st john's wort                          |                    |      |      |     |
-| 12h   | shrimp fried rice                                    |                    |  250 |    8 |  10 |
-| 14h   | shrimp fried rice                                    |                    |  300 |   12 |  10 |
-| 16h   | lasagna                                              |                    |  350 |   22 |  12 |
-| 19h30 | 6 potstickers                                        |                    |  255 |   10 |  10 |
-|       | TOTAL                                                |                    | 2155 |  126 |  65 |
+| Time  | Food                                                 |  kCal | Prot | Fat |
+|-------|------------------------------------------------------|-------|------|-----|
+| 5h30  | blueberry rx bar                                     |                     190 |   12 |   6 |
+| 6h    | Coffee                                               |                      73 |    0 |   0 |
+| 6h    | [Breakfast Curry](./recipes/BreakfastCurry.org)      |   421 |   26 |  16 |
+| 9h30  | [whey hot chocolate](./recipes/wheyHotChocolate.org) |   316 |   36 |   1 |
+|       | d3 & liver & st john's wort                          |                         |      |     |
+| 12h   | shrimp fried rice                                    |                     250 |    8 |  10 |
+| 14h   | shrimp fried rice                                    |                     300 |   12 |  10 |
+| 16h   | lasagna                                              |                     350 |   22 |  12 |
+| 19h30 | 6 potstickers                                        |                     255 |   10 |  10 |
+|       | TOTAL                                                |                    2155 |  126 |  65 |
 
 
 # Feb 24
