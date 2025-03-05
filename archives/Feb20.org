@@ -222,7 +222,9 @@ Doubled chicken in the Breakfast Curry
 | 13h   | costco pho                                      |                 |  260 |    5 |   3 |
 | 13h   | 100g shrimp                                     |                 |  106 |   20 |   2 |
 | 16h30 | 8 potstickers                                   |                 |  370 |   14 |  12 |
-|       | TOTAL                                           |                 | 1854 |  119 |  40 |
+| 19h   | 50g oatmeal                                     |                 |  175 |    7 |   4 |
+| 19h   | 2 Tbsp maple syrup                              |                 |  104 |    0 |   0 |
+|       | TOTAL                                           |                 | 2133 |  126 |  44 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 

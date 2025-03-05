@@ -4,7 +4,31 @@
 Use org-babel and bash
 
 - move the current Readme to the archive.
+
+  cp Feb20.org archives/Feb20.org
+
 - calculate tables
+In emacs, ctrl-c ctrl-c
+
+- move the file to a .md
+mv Feb20.org Feb20.md
+  
 - remove the org column
+
+ grep pancakes Feb20.md | cut -d'|' -f1,2,3,5,6,7,8
+cut -d'|' -f1,2,3,5,6,7,8 Feb20.md > README.md
+ 
+ 
 - remove the table functionality
+ sed '/^\#/d' Feb20.md > README.md
+cp README.md Feb20.md
+
+...try sed -e? -i?
+ 
 - change headers from * to #
+ sed 's/\*/\#/g' Feb20.md > README.md 
+ cp README.md Feb20.md
+ 
+- Change + to | 
+ sed 's/\+/\|/g' Feb20.md > README.md
+ cp README.md Feb20.md
