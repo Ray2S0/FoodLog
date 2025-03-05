@@ -65,80 +65,80 @@
 
 # Feb 24
 
-| Time  | Food                                                 | org                | kCal | Prot | Fat |
-|-------|------------------------------------------------------|--------------------|------|------|-----|
-| 6h    | Coffee                                               |                    |   73 |    0 |   0 |
-| 6h    | [Breakfast Curry](./recipes/BreakfastCurry.org)      | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]]    |  421 |   26 |  16 |
-|       | d3 & liver & st john's wort                          |                    |      |      |     |
-| 9h30  | [whey hot chocolate](./recipes/wheyHotChocolate.org) | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   36 |   1 |
-| 12h30 | lasagna                                              |                    |  350 |   22 |  12 |
-| 13h30 | lasagna                                              |                    |  350 |   22 |  12 |
-| 16h   | 8 chicken potstickers                                |                    |  370 |   14 |  12 |
-| 18h   | oatmeal with fruit                                   |                    |  200 |    0 |   0 |
-|       | TOTAL                                                |                    | 2080 |  120 |  53 |
+| Time  | Food                                                 |            kCal | Prot | Fat |
+|-------|------------------------------------------------------|--------------------------|------|-----|
+| 6h    | Coffee                                               |                       73 |    0 |   0 |
+| 6h    | [Breakfast Curry](./recipes/BreakfastCurry.org)      |  421 |   26 |  16 |
+|       | d3 & liver & st john's wort                          |                         |      |     |
+| 9h30  | [whey hot chocolate](./recipes/wheyHotChocolate.org) |   316 |   36 |   1 |
+| 12h30 | lasagna                                              |                     350 |   22 |  12 |
+| 13h30 | lasagna                                              |                     350 |   22 |  12 |
+| 16h   | 8 chicken potstickers                                |                     370 |   14 |  12 |
+| 18h   | oatmeal with fruit                                   |                     200 |    0 |   0 |
+|       | TOTAL                                                |                    2080 |  120 |  53 |
 
 
 # Feb 25
 
-| Time  | Food                                            | org             | kCal | Prot | Fat |
-|-------|-------------------------------------------------|-----------------|------|------|-----|
-| 6h    | Coffee                                          |                 |   73 |    0 |   0 |
-| 6h    | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  421 |   26 |  16 |
+| Time  | Food                                            |  kCal | Prot | Fat |
+|-------|-------------------------------------------------|----------------------|------|-----|
+| 6h    | Coffee                                          |                   73 |    0 |   0 |
+| 6h    | [Breakfast Curry](./recipes/BreakfastCurry.org) |   421 |   26 |  16 |
 |       | d3 & liver & st john's wort                     |                 |      |      |     |
-| 9h30  | [Green Smoothie](./recipes/GreenSmoothie.org)   | [['file:recipes/GreenSmoothie.org][green smoothie]]  |  336 |   27 |   0 |
-| 12h   | costco pho                                      |                 |  260 |    5 |   3 |
-| 12h30 | lasagna                                         |                 |  350 |   22 |  12 |
-| 17h   | skyr & fruit                                    |                 |  220 |   17 |   6 |
-| 17h30 | 12 potstickers                                  |                 |  555 |   21 |  18 |
-|       | TOTAL                                           | TOTAL           | 2215 |  118 |  55 |
+| 9h30  | [Green Smoothie](./recipes/GreenSmoothie.org)   |   336 |   27 |   0 |
+| 12h   | costco pho                                      |                   260 |    5 |   3 |
+| 12h30 | lasagna                                         |                   350 |   22 |  12 |
+| 17h   | skyr & fruit                                    |                   220 |   17 |   6 |
+| 17h30 | 12 potstickers                                  |                   555 |   21 |  18 |
+|       | TOTAL                                           | 2215 |  118 |  55 |
 
 
 # Feb 26
 
-| Time  | Food                                                 | org                | kCal | Prot | Fat |
-|-------|------------------------------------------------------|--------------------|------|------|-----|
-| 8h    | Coffee                                               |                    |   73 |    0 |   0 |
-| 8h    | [Breakfast Curry](./recipes/BreakfastCurry.org)      | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]]    |  421 |   26 |  16 |
-| 9h    | orange                                               |                    |   45 |    0 |   0 |
-|       | d3 & liver & st john's wort                          |                    |      |      |     |
-| 10h   | [whey hot chocolate](./recipes/wheyHotChocolate.org) | [['file:recipes/wheyHotChocolate.org'][whey hot chocolate]] |  316 |   36 |   1 |
-| 12h30 | lasagna                                              |                    |  350 |   22 |  12 |
-| 12h30 | 500g grapes                                          |                    |  500 |    3 |   0 |
-| 14h30 | lasagna                                              |                    |  350 |   22 |  12 |
-|       | TOTAL                                                |                    | 2055 |  109 |  41 |
+| Time  | Food                                                 |  kCal | Prot | Fat |
+|-------|------------------------------------------------------|--------------------------|------|-----|
+| 8h    | Coffee                                               |                       73 |    0 |   0 |
+| 8h    | [Breakfast Curry](./recipes/BreakfastCurry.org)      |  421 |   26 |  16 |
+| 9h    | orange                                               |                      45 |    0 |   0 |
+|       | d3 & liver & st john's wort                          |                         |      |     |
+| 10h   | [whey hot chocolate](./recipes/wheyHotChocolate.org) |   316 |   36 |   1 |
+| 12h30 | lasagna                                              |                      350 |   22 |  12 |
+| 12h30 | 500g grapes                                          |                     500 |    3 |   0 |
+| 14h30 | lasagna                                              |                     350 |   22 |  12 |
+|       | TOTAL                                                |                    2055 |  109 |  41 |
 
 
 # Feb 27
 
 
-| Time  | Food                          | org | kCal | Prot | Fat |
-|-------|-------------------------------|-----|------|------|-----|
-| 6h    | Coffee                        |     |   73 |    0 |   0 |
-| 6h    | lasagna                       |     |  350 |   22 |  12 |
-| 6h    | 100g skyr and fruit           |     |  120 |   11 |   0 |
-| 10h30 | 100g shrimp                   |     |  106 |   20 |   2 |
-| 12h30 | 8 potstickers                 |     |  370 |   14 |  12 |
-| 13h   | 30g oatmeal 1Tbsp maple syrup |     |   70 |    0 |   0 |
-| 15h30 | restaurant pho                |     |  500 |   15 |  10 |
-| 15h30 | 100g shrimp                   |     |  106 |   20 |   2 |
-| 17h30 | 100g shrimp                   |     |  106 |   20 |   2 |
-| 17h30 | mr noodles                    |     |  200 |    4 |   5 |
-|       | TOTAL                         |     | 2001 |  126 |  45 |
+| Time  | Food                          | kCal | Prot | Fat |
+|-------|-------------------------------|-----------|------|-----|
+| 6h    | Coffee                        |       73 |    0 |   0 |
+| 6h    | lasagna                       |      350 |   22 |  12 |
+| 6h    | 100g skyr and fruit           |      120 |   11 |   0 |
+| 10h30 | 100g shrimp                   |      106 |   20 |   2 |
+| 12h30 | 8 potstickers                 |      370 |   14 |  12 |
+| 13h   | 30g oatmeal 1Tbsp maple syrup |       70 |    0 |   0 |
+| 15h30 | restaurant pho                |      500 |   15 |  10 |
+| 15h30 | 100g shrimp                   |      106 |   20 |   2 |
+| 17h30 | 100g shrimp                   |      106 |   20 |   2 |
+| 17h30 | mr noodles                    |      200 |    4 |   5 |
+|       | TOTAL                         |     2001 |  126 |  45 |
 
 # Feb 28
 
-| Time | Food                                          | org            | kCal | Prot | Fat |
-|------|-----------------------------------------------|----------------|------|------|-----|
-| 6h   | Coffee                                        |                |   73 |    0 |   0 |
-| 6h   | pancakes                                      |                |  270 |   23 |   4 |
-| 6h   | 2 Tbsp Maple Syrup                            |                |  104 |    0 |   0 |
-| 9h   | [Green Smoothie](./recipes/GreenSmoothie.org) | [['file:recipes/GreenSmoothie.org][green smoothie]] |  336 |   27 |   0 |
-| 11h  | costco pho                                    |                |  260 |    5 |   3 |
-| 11h  | 60g bone broth                                |                |   10 |    2 |   0 |
-| 13h  | fish and chips                                |                |  950 |   35 |  18 |
-| 16h  | pancake                                       |                |  270 |   23 |   4 |
-| 16h  | 2 Tbsp mapble syrup                           |                |  104 |    0 |   0 |
-|      | TOTAL                                         |                | 2377 |  115 |  29 |
+| Time | Food                                          |  kCal | Prot | Fat |
+|------|-----------------------------------------------|----------------------|------|-----|
+| 6h   | Coffee                                        |                  73 |    0 |   0 |
+| 6h   | pancakes                                      |                 270 |   23 |   4 |
+| 6h   | 2 Tbsp Maple Syrup                            |                 104 |    0 |   0 |
+| 9h   | [Green Smoothie](./recipes/GreenSmoothie.org) |  336 |   27 |   0 |
+| 11h  | costco pho                                    |                  260 |    5 |   3 |
+| 11h  | 60g bone broth                                |                   10 |    2 |   0 |
+| 13h  | fish and chips                                |                 950 |   35 |  18 |
+| 16h  | pancake                                       |                 270 |   23 |   4 |
+| 16h  | 2 Tbsp mapble syrup                           |                 104 |    0 |   0 |
+|      | TOTAL                                         |                2377 |  115 |  29 |
 
 
 # Mar 1
