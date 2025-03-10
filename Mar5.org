@@ -48,20 +48,39 @@
 
 * Mar 8
 
-| Time  | Food                   | org | kCal | Prot | Fat |
-|-------+------------------------+-----+------+------+-----|
-| 7h    | Coffee                 |     |   73 |    0 |   0 |
-| 7h    | pancakes               |     |  270 |   23 |   4 |
-| 7h    | 2 Tbsp Maple Syrup     |     |  104 |    0 |   0 |
-| 12h   | skyr                   |     |  150 |   18 |   6 |
-| 12h   | 50g oatmeal            |     |  175 |    7 |   4 |
-| 12h   | cherries               |     |   90 |    1 |   0 |
-| 12h30 | choc p butter prot bar |     |  190 |   20 |   7 |
-| 14h   | cherries               |     |   90 |    1 |   0 |
-| 15h   | lasagna                |     |  400 |   29 |  16 |
-|       | TOTAL                  |     | 1542 |   99 |  37 |
+| Time  | Food                     | org | kCal | Prot | Fat |
+|-------+--------------------------+-----+------+------+-----|
+| 7h    | Coffee                   |     |   73 |    0 |   0 |
+| 7h    | pancakes                 |     |  270 |   23 |   4 |
+| 7h    | 2 Tbsp Maple Syrup       |     |  104 |    0 |   0 |
+| 9h    | Tim Horton's bagel BELT  |     |  530 |   24 |  24 |
+| 9h    | Tim's med coffee 2 sugar |     |  146 |    0 |   0 |
+| 12h   | skyr                     |     |  150 |   18 |   6 |
+| 12h   | 50g oatmeal              |     |  175 |    7 |   4 |
+| 12h   | cherries                 |     |   90 |    1 |   0 |
+| 12h30 | choc p butter prot bar   |     |  190 |   20 |   7 |
+| 14h   | cherries                 |     |   90 |    1 |   0 |
+| 15h   | m&m lasagna              |     |  400 |   29 |  16 |
+| 15h30 | costco pho               |     |  260 |    5 |   3 |
+| 15h30 | 100g shrimp              |     |  106 |   20 |   2 |
+|       | TOTAL                    |     | 2584 |  148 |  66 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
+* Mar 9
+
+| Time  | Food                                          | org            | kCal | Prot | Fat |
+|-------+-----------------------------------------------+----------------+------+------+-----|
+| 5h    | Coffee                                        |                |   73 |    0 |   0 |
+| 5h    | choc p butter prot bar                        |                |  190 |   20 |   7 |
+| 5h    | m&m lasagna                                   |                |  400 |   29 |  16 |
+| 9h    | costco pho                                    |                |  260 |    5 |   3 |
+| 9h    | 100g shrimp                                   |                |  106 |   20 |   2 |
+| 12h   | skyr                                          |                |  150 |   18 |   6 |
+| 12h   | cherries                                      |                |   90 |    1 |   0 |
+| 12h   | Coffee                                        |                |   73 |    0 |   0 |
+| 13h30 | [Green Smoothie](./recipes/GreenSmoothie.org) | [['file:recipes/GreenSmoothie.org][green smoothie]] |  336 |   27 |   0 |
+|       | TOTAL                                         |                | 1678 |  120 |  34 |
+#+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
 
