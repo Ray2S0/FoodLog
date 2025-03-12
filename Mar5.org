@@ -113,7 +113,11 @@
 |      | TOTAL                                           |                 |  768 |   54 |  23 |
 #+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
+** Notes
 
+Despite eating lactase tablets, the skyr sent me vomiting and intense pain.
+Took the day off work. Was in no shape to log.
+Going to look into vegan cheese recipes and other non-dairy ways to get protein. 
 
 
 
