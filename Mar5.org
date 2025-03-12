@@ -107,7 +107,7 @@
 | Time | Food                                            | org             | kCal | Prot | Fat |
 |------+-------------------------------------------------+-----------------+------+------+-----|
 | 6h   | Coffee                                          |                 |   73 |    0 |   0 |
-| 6h   | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  455 |   35 |  17 |
+| 6h | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] | 472 | 33 | 17 |
 | 9h30 | skyr                                            |                 |  150 |   18 |   6 |
 | 9h30 | cherries                                        |                 |   90 |    1 |   0 |
 |      | TOTAL                                           |                 |  768 |   54 |  23 |
@@ -119,6 +119,14 @@ Despite eating lactase tablets, the skyr sent me vomiting and intense pain.
 Took the day off work. Was in no shape to log.
 Going to look into vegan cheese recipes and other non-dairy ways to get protein. 
 
+* Mar 11 
+
+| Time | Food                                            | org             | kCal | Prot | Fat |
+|------+-------------------------------------------------+-----------------+------+------+-----|
+| 5h   | Coffee                                          |                 |   73 |    0 |   0 |
+| 5h   | [Breakfast Curry](./recipes/BreakfastCurry.org) | [['file:../recipes/BreakfastCurry.org][Breakfast Curry]] |  472 |   33 |  17 |
+|      | TOTAL                                           |                 |  545 |   33 |  17 |
+#+TBLFM: @>$4=vsum(@2..@-1)::@>$5=vsum(@2..@-1)::@>$6=vsum(@2..@-1)
 
 
 

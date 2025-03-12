@@ -2,7 +2,18 @@
 
 * Issues
 
-** should probably learn org-agenda for this
+** Forge! for Gitlab and Github issues. 
+Right so magit does basic git, forge does the gitlab/github interfaces.
+
+https://magit.vc/manual/forge.html#Setup-for-Githubcom
+
+My .gitconfig is fine.
+
+Forge needs me to feed some variables to it. When I SPC SPC forge-add-repository I get this error:
+
+Required Github token (Ray2S0^forge for api.github.com) does not exist.
+
+After I've got it setup for Github I will need to set it up for the SSC Gitlab. 
 
 ** shopping lists
 - requires owncloud to sync to phone
@@ -12,3 +23,8 @@
 
 
 ** SQLite
+
+** Ratio Calculator
+- elisp in an org babel code block?
+- SQLite table that I can push the numbers in?
+- Honestly I'll probably start with an org table. 
