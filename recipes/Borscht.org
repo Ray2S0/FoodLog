@@ -1,0 +1,18 @@
+* Borscht
+
+I want a slow cooker borscht that makes 10 servings, and I can freeze half.
+
+Should have beets, for sure. Cabbage comes out of the freezer weird. No cabbage.
+
+* Bulk Recipe
+
+|    g | Ingredient | kCal | Prot | Fat |
+|------+------------+------+------+-----|
+|  750 | ham        | 1290 |  160 |  60 |
+|  750 | ham        | 1290 |  160 |  60 |
+|      | broth      |      |      |     |
+|      | beets      |      |      |     |
+|      | onion      |      |      |     |
+|      | carrot     |      |      |     |
+| 100g | barley     |  354 |   12 |   2 |
+|      | dill       |      |      |     |
